@@ -20,11 +20,12 @@ YCbCr Matrix: TV.709
 Last Style Storage: Default
 Audio File: jjk0_premux.mkv
 Video File: jjk0_premux.mkv
+Keyframes File: keyframes.txt
 Video AR Value: 2.388060
-Video Zoom Percent: 0.625000
-Scroll Position: 47
-Active Line: 71
-Video Position: 12376
+Video Zoom Percent: 0.750000
+Scroll Position: 1274
+Active Line: 1288
+Video Position: 150711
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,7 +36,7 @@ Style: Italics,Cabin,80,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,-1,0,0,10
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:40.18,0:00:43.01,Default,Student,0,0,0,,It's been a while, Okkotsu.
 Dialogue: 0,0:00:44.01,0:00:45.81,Default,Okkotsu,0,0,0,,Stay away.
-Dialogue: 0,0:00:46.26,0:00:49.94,Default,Student,0,0,0,,Come on, man, don't be so mean.
+Dialogue: 0,0:00:46.26,0:00:49.94,Default,Student,0,0,0,,Oh, come on. Don't play hard to get. {Come on, man, don't be so mean.}
 Dialogue: 0,0:00:50.90,0:00:52.57,Default,Okkotsu,0,0,0,,You can't.
 Dialogue: 0,0:00:53.15,0:00:56.23,Default,Student,0,0,0,,Do you know how much I've wanted to punch you?
 Dialogue: 0,0:00:56.61,0:00:59.70,Default,Student,0,0,0,,Try to understand my feelings!
@@ -52,8 +53,8 @@ Dialogue: 0,0:01:32.36,0:01:34.15,Default,Okkotsu,0,0,0,,I'm sorry. I'm sorry.
 Dialogue: 0,0:01:53.08,0:01:55.96,Default,Gojo,0,0,0,,You want to cover up the incident \Nand have the boy be executed in secret?
 Dialogue: 0,0:01:56.58,0:01:57.92,Default,Gojo,0,0,0,,That's ridiculous.
 Dialogue: 0,0:01:58.67,0:02:01.01,Default,Director A,0,0,0,,The boy himself has consented to it.
-Dialogue: 0,0:02:02.23,0:02:05.59,Default,Gojo,0,0,0,,He's underage. Just a 16-year-old kid.
-Dialogue: 0,0:02:06.26,0:02:09.22,Default,Gojo,0,0,0,,We don't know how many he'd curse to death.
+Dialogue: 0,0:02:02.23,0:02:05.59,Default,Gojo,0,0,0,,He's underage. Just sixteen years old.
+Dialogue: 0,0:02:06.26,0:02:09.22,Default,Gojo,0,0,0,,We don't know how many might curse to death.
 Dialogue: 0,0:02:10.15,0:02:15.58,Default,Gojo,0,0,0,,He has already turned the tables on \Nthree second-grades and even a first-grade.
 Dialogue: 0,0:02:16.19,0:02:18.65,Default,Gojo,0,0,0,,That's why you've turned to me.
 Dialogue: 0,0:02:20.49,0:02:22.32,Default,Gojo,0,0,0,,Have you forgotten that?
@@ -67,8 +68,8 @@ Dialogue: 0,0:02:47.72,0:02:50.44,Default,Okkotsu,0,0,0,,but Rika{**-chan} would
 Dialogue: 0,0:02:52.05,0:02:53.05,Default,Gojo,0,0,0,,That's dark.
 Dialogue: 0,0:02:56.23,0:02:58.44,Default,Gojo,0,0,0,,You're starting at a new school today.
 Dialogue: 0,0:02:59.31,0:03:00.70,Default,Okkotsu,0,0,0,,I'm not going.
-Dialogue: 0,0:03:04.03,0:03:06.57,Default,Okkotsu,0,0,0,,I don't want to hurt anyone again.
-Dialogue: 0,0:03:07.11,0:03:10.08,Default,Okkotsu,0,0,0,,So I won't be going outside anymore.
+Dialogue: 0,0:03:04.03,0:03:06.57,Default,Okkotsu,0,0,0,,I don't want to hurt anyone anymore. {again}
+Dialogue: 0,0:03:07.11,0:03:10.08,Default,Okkotsu,0,0,0,,So I'm never going outside again. {So I won't be going outside anymore.}
 Dialogue: 0,0:03:11.21,0:03:12.16,Default,Gojo,0,0,0,,But you know...
 Dialogue: 0,0:03:13.08,0:03:14.79,Default,Gojo,0,0,0,,It gets lonely all by yourself.
 Dialogue: 0,0:03:18.25,0:03:25.22,Default,Gojo,0,0,0,,Depending on how it's used, \Nthe curse placed on you can save people as well.
@@ -85,12 +86,12 @@ Dialogue: 0,0:06:47.00,0:06:51.22,Default,Gojo,0,0,0,,Listen up, everyone! Trans
 Dialogue: 0,0:06:51.22,0:06:54.22,Default,Gojo,0,0,0,,Let's all give him a hand!
 Dialogue: 0,0:06:56.88,0:06:58.22,Default,Gojo,0,0,0,,Not one hand...
 Dialogue: 0,0:06:59.34,0:07:01.73,Default,Maki,0,0,0,,I heard he's a real wet blanket.
-Dialogue: 0,0:07:02.27,0:07:05.81,Default,Maki,0,0,0,,Hard to get excited for welcoming someone like that.
+Dialogue: 0,0:07:02.27,0:07:05.81,Default,Maki,0,0,0,,Hard to get excited about welcoming someone like that.
 Dialogue: 0,0:07:06.19,0:07:07.14,Default,Toge,0,0,0,,Salmon.
 Dialogue: 0,0:07:11.32,0:07:12.61,Default,Gojo,0,0,0,,Moving on!
 Dialogue: 0,0:07:14.15,0:07:15.74,Default,Gojo,0,0,0,,Come on in!
-Dialogue: 0,0:07:16.24,0:07:19.36,Italics,Okkotsu,0,0,0,,I sense a really damp mood in there.
-Dialogue: 0,0:07:25.75,0:07:27.50,Italics,Maki,0,0,0,,I'll just ignore him.
+Dialogue: 0,0:07:16.24,0:07:19.36,Italics,Okkotsu,0,0,0,,{\i1}I sense a really damp mood in there.
+Dialogue: 0,0:07:25.75,0:07:27.50,Italics,Maki,0,0,0,,{\i1}I'll just ignore him.
 Dialogue: 0,0:07:44.27,0:07:45.56,Default,Okkotsu,0,0,0,,I'm Okkotsu Yut—
 Dialogue: 0,0:07:47.35,0:07:49.31,Default,Maki,0,0,0,,Is this some kind of test?
 Dialogue: 0,0:07:51.40,0:07:52.57,Default,Maki,0,0,0,,Hey.
@@ -98,11 +99,11 @@ Dialogue: 0,0:07:54.02,0:07:56.82,Default,Maki,0,0,0,,You're cursed.
 Dialogue: 0,0:07:57.24,0:07:59.66,Default,Maki,0,0,0,,This is a place to learn about curses.
 Dialogue: 0,0:07:59.95,0:08:02.75,Default,Maki,0,0,0,,Not a place for the cursed to be.
 Dialogue: 0,0:08:02.75,0:08:03.45,Default,Okkotsu,0,0,0,,Huh?
-Dialogue: 0,0:08:05.62,0:08:11.92,Default,Gojo,0,0,0,,More than ten-thousand unexplained deaths and \Nmissing persons are reported annually across the country.
+Dialogue: 0,0:08:05.62,0:08:11.92,Default,Gojo,0,0,0,,More than ten thousand unexplained deaths and \Nmissing persons are reported annually across the country.
 Dialogue: 0,0:08:12.42,0:08:18.88,Default,Gojo,0,0,0,,Most of them are a result of curses \Nborn from the negative emotions of people.
 Dialogue: 0,0:08:19.30,0:08:22.68,Default,Gojo,0,0,0,,Among them are also some malicious cases caused by curse users.
 Dialogue: 0,0:08:23.06,0:08:26.85,Default,Gojo,0,0,0,,You need curses to fight curses.
-Dialogue: 0,0:08:27.52,0:08:30.32,Default,Gojo,0,0,0,,And this where we learn about curses to exorcise curses:
+Dialogue: 0,0:08:27.52,0:08:30.32,Default,Gojo,0,0,0,,And this is where we learn about curses to exorcise curses:
 Dialogue: 0,0:08:30.94,0:08:33.82,Default,Gojo,0,0,0,,Tokyo Jujutsu Technical High School.
 Dialogue: 0,0:08:36.15,0:08:38.31,Italics,Okkotsu,0,0,0,,{\i1}You're just telling me that now?
 Dialogue: 0,0:08:40.58,0:08:42.45,Italics,Panda&Maki,0,0,0,,{\i1}You're just telling him that now?
@@ -121,7 +122,7 @@ Dialogue: 0,0:09:30.25,0:09:31.42,Default,Rika,0,0,0,,Just do it already!
 Dialogue: 0,0:09:31.42,0:09:32.79,Default,Okkotsu,0,0,0,,Wow! {??}
 Dialogue: 0,0:09:37.50,0:09:39.17,Default,Okkotsu,0,0,0,,A ring?
 Dialogue: 0,0:09:39.80,0:09:41.47,Default,Rika,0,0,0,,It's an engagement ring.
-Dialogue: 0,0:09:41.47,0:09:42.68,Default,Okkotsu,0,0,0,,What's that?
+Dialogue: 0,0:09:41.47,0:09:42.68,Default,Okkotsu,0,0,0,,What's engagement? {that}
 Dialogue: 0,0:09:54.94,0:09:56.31,Default,Rika,0,0,0,,It's a promise.
 Dialogue: 0,0:09:57.48,0:10:01.77,Default,Rika,0,0,0,,A promise that when we grow up, we'll get married.
 Dialogue: 0,0:10:06.70,0:10:07.82,Default,(Couple)Male,0,0,0,,Is this real?!
@@ -133,46 +134,46 @@ Dialogue: 0,0:10:15.17,0:10:16.96,Default,PasserbyB,0,0,0,,Her head's crushed in
 Dialogue: 0,0:10:16.96,0:10:18.29,Default,Passerby,0,0,0,,But still...
 Dialogue: 0,0:10:18.88,0:10:22.55,Default,PasserbyC,0,0,0,,A child got run over by a car! Yes! Hurry!
 Dialogue: 0,0:10:20.34,0:10:21.72,Default,Passerby,0,0,0,,{\an8}Help them! {from cr}
-Dialogue: 0,0:10:24.80,0:10:27.51,Default,Passerby,0,0,0,,I can't go near that!
+Dialogue: 0,0:10:24.80,0:10:27.51,Default,Passerby,0,0,0,,I'm not going near that!
 Dialogue: 0,0:10:27.92,0:10:29.30,Default,Okkotsu,0,0,0,,Rika{**-chan}?
 Dialogue: 0,0:10:30.90,0:10:33.77,Default,Rika,0,0,0,,Yuta...
 Dialogue: 0,0:10:42.07,0:10:44.57,Default,Rika,0,0,0,,Yuta.
 Dialogue: 0,0:10:45.41,0:10:48.95,Default,Rika,0,0,0,,When we grow up,
 Dialogue: 0,0:10:48.95,0:10:53.75,Default,Rika,0,0,0,,we'll get married!
 Dialogue: 0,0:10:56.96,0:10:58.27,Default,Rika,0,0,0,,It's a promise.
-Dialogue: 0,0:10:59.42,0:11:04.59,Default,Gojo,0,0,0,,So as you see, he's cursed by Rika{**-chan}, \Nwho is totally in love with him!
+Dialogue: 0,0:10:59.42,0:11:04.59,Default,Gojo,0,0,0,,So as you see, he's cursed by Rika{**-chan}, \Nwho is madly in love with him!
 Dialogue: 0,0:11:04.88,0:11:07.68,Default,Gojo,0,0,0,,Let's welcome Okkotsu Yuta!
 Dialogue: 0,0:11:07.68,0:11:10.35,Default,Gojo,0,0,0,,Be nice to him, everyone!
-Dialogue: 0,0:11:11.89,0:11:16.56,Default,Gojo,0,0,0,,Attacking Yuta might activate Rika{**-chan}'s curse.
-Dialogue: 0,0:11:16.56,0:11:19.53,Default,Gojo,0,0,0,,Or not.
-Dialogue: 0,0:11:20.32,0:11:22.15,Default,Maki,0,0,0,,Either way, be careful!
+Dialogue: 0,0:11:11.89,0:11:16.56,Default,Gojo,0,0,0,,Remember that attacking Yuta will activate Rika{**-chan}'s curse.
+Dialogue: 0,0:11:16.56,0:11:19.53,Default,Gojo,0,0,0,,Or maybe it won't. Hard to say. {or not}
+Dialogue: 0,0:11:20.32,0:11:22.15,Default,Maki,0,0,0,,Either way, be careful! {join?}
 Dialogue: 0,0:11:22.86,0:11:24.90,Default,Gojo,0,0,0,,Should've said it sooner.
-Dialogue: 0,0:11:24.90,0:11:26.90,Default,Gojo,0,0,0,,Since they're being so rebellious,\N I'll just make some quick introductions.
+Dialogue: 0,0:11:24.90,0:11:26.90,Default,Gojo,0,0,0,,Since they're being so rebellious, \NI'll just make some quick introductions.
 Dialogue: 0,0:11:27.49,0:11:30.29,Italics,Okkotsu,0,0,0,,{\i1}I have a feeling this teacher is the problem.
 Dialogue: 0,0:11:30.62,0:11:33.33,Default,Gojo,0,0,0,,This is the cursed tool user, Zenin Maki.
 Dialogue: 0,0:11:33.33,0:11:36.16,Default,Gojo,0,0,0,,She uses special tools to exorcise curses.
 Dialogue: 0,0:11:37.29,0:11:39.97,Default,Gojo,0,0,0,,This is the cursed speech user, Inumaki Toge.
-Dialogue: 0,0:11:39.97,0:11:43.05,Default,Gojo,0,0,0,,He can only speak in rice ball ingredients,\N so good luck talking to him!
+Dialogue: 0,0:11:39.97,0:11:43.05,Default,Gojo,0,0,0,,He can only speak in rice ball ingredients, \Nso good luck talking to him!
 Dialogue: 0,0:11:43.55,0:11:44.42,Default,Toge,0,0,0,,Kelp.
 Dialogue: 0,0:11:44.42,0:11:45.63,Default,Gojo,0,0,0,,This is Panda.
 Dialogue: 0,0:11:45.63,0:11:46.65,Default,Panda,0,0,0,,I'm Panda.
 Dialogue: 0,0:11:46.65,0:11:47.92,Default,Panda,0,0,0,,Nice to meet you.
 Dialogue: 0,0:11:48.67,0:11:50.81,Default,Gojo,0,0,0,,Well, there you have it.
-Dialogue: 0,0:11:51.06,0:11:53.89,Italics,Okkotsu,0,0,0,,He didn't give me the explanation I wanted most!
-Dialogue: 0,0:11:54.68,0:11:58.02,Default,Gojo,0,0,0,,Okay, now there are four first-years!
-Dialogue: 0,0:11:59.06,0:12:01.82,Italics,Okkotsu,0,0,0,,{\i1}That's three and one animal.
+Dialogue: 0,0:11:51.06,0:11:53.89,Italics,Okkotsu,0,0,0,,{\i1}He didn't give me the explanation I wanted most!
+Dialogue: 0,0:11:54.68,0:11:58.02,Default,Gojo,0,0,0,,All right! Our first-year class is a solid four students! {Okay, now there are four first-years!}
+Dialogue: 0,0:11:59.06,0:12:01.82,Italics,Okkotsu,0,0,0,,{\i1}Three students and one animal, anyway. {That's three and one animal.}
 Dialogue: 0,0:12:02.24,0:12:04.28,Default,Gojo,0,0,0,,For your afternoon jujutsu practice,
 Dialogue: 0,0:12:04.61,0:12:06.90,Default,Gojo,0,0,0,,you'll be working in pairs.
 Dialogue: 0,0:12:07.19,0:12:08.94,Default,Gojo,0,0,0,,Toge and Panda, pair up.
 Dialogue: 0,0:12:08.94,0:12:09.91,Default,Panda,0,0,0,,Let's do this.
 Dialogue: 0,0:12:10.54,0:12:12.54,Default,Gojo,0,0,0,,Maki and Yuta, pair up.
-Dialogue: 0,0:12:12.54,0:12:13.25,Default,Maki,0,0,0,,Geh!
-Dialogue: 0,0:12:14.04,0:12:15.37,Italics,Okkotsu,0,0,0,,She just voiced disgust?!
+Dialogue: 0,0:12:12.54,0:12:13.25,Default,Maki,0,0,0,,Yikes! {Geh!}
+Dialogue: 0,0:12:14.04,0:12:15.37,Italics,Okkotsu,0,0,0,,{\i1}Did she just say "yikes"?! {She just voiced disgust?!}
 Dialogue: 0,0:12:21.42,0:12:25.38,Default,Okkotsu,0,0,0,,U-Um, I-I hope we can work together.
 Dialogue: 0,0:12:28.01,0:12:30.64,Default,Maki,0,0,0,,You were bullied, weren't you?
-Dialogue: 0,0:12:36.52,0:12:37.93,Default,Maki,0,0,0,,Thought so.
+Dialogue: 0,0:12:36.52,0:12:37.93,Default,Maki,0,0,0,,Thought so. {Going by that reaction, I assume I'm right.}
 Dialogue: 0,0:12:37.93,0:12:40.57,Default,Maki,0,0,0,,I totally get it. Even I'd bully you.
-Dialogue: 0,0:12:41.44,0:12:42.94,Default,Maki,0,0,0,,Maybe it's because of the curse,
+Dialogue: 0,0:12:41.44,0:12:42.94,Default,Maki,0,0,0,,Maybe you do it because of the curse,
 Dialogue: 0,0:12:43.44,0:12:47.69,Default,Maki,0,0,0,,but that good guy act you got plastered all over your face, it's disgusting.
 Dialogue: 0,0:12:48.82,0:12:51.99,Default,Maki,0,0,0,,Why are you playing the victim \Nwhen you're the one being protected?
 Dialogue: 0,0:12:52.66,0:12:54.95,Default,Maki,0,0,0,,I bet you've been passive your whole life.
@@ -182,7 +183,7 @@ Dialogue: 0,0:13:04.09,0:13:06.38,Default,Panda,0,0,0,,That's enough, Maki.
 Dialogue: 0,0:13:06.38,0:13:07.75,Default,Toge,0,0,0,,Bonito flakes!
 Dialogue: 0,0:13:08.59,0:13:11.68,Default,Maki,0,0,0,,All right, fine. Get off my case.
 Dialogue: 0,0:13:12.43,0:13:13.85,Default,Panda,0,0,0,,Sorry about that.
-Dialogue: 0,0:13:13.85,0:13:17.56,Default,Panda,0,0,0,,She has a habit of acting like she understands others. {habit, huh?}
+Dialogue: 0,0:13:13.85,0:13:17.56,Default,Panda,0,0,0,,She has a habit of making assumptions about people. {acting like she understands others} {jumping to conclusions} {>females}
 Dialogue: 0,0:13:18.10,0:13:19.10,Default,Okkotsu,0,0,0,,It's fine.
 Dialogue: 0,0:13:20.11,0:13:22.15,Default,Okkotsu,0,0,0,,She's not wrong.
 Dialogue: 0,0:13:28.15,0:13:29.02,Default,Okkotsu,0,0,0,,Where are we?
@@ -196,7 +197,7 @@ Dialogue: 0,0:13:44.71,0:13:48.00,Default,Okkotsu,0,0,0,,You're saying they were
 Dialogue: 0,0:13:48.00,0:13:50.85,Default,Gojo,0,0,0,,Yup, two that we know of.
 Dialogue: 0,0:13:50.85,0:13:55.94,Default,Maki,0,0,0,,Curses tend to manifest in crowded places \Nthat many people have memories of.
 Dialogue: 0,0:13:57.43,0:14:01.83,Default,Maki,0,0,0,,Places like schools and hospitals which \Nare often remembered with negative emotions
-Dialogue: 0,0:14:01.83,0:14:04.52,Default,Maki,0,0,0,,are likely to form pools of negative energy.
+Dialogue: 0,0:14:01.83,0:14:04.52,Default,Maki,0,0,0,,are likely to form pools of negative energy. {are a receptacle for curses} {this line is slightly different from s1}
 Dialogue: 0,0:14:05.27,0:14:09.66,Default,Maki,0,0,0,,As those emotions build up, \Nthey give birth to curses like the one here.
 Dialogue: 0,0:14:10.32,0:14:13.37,Default,Gojo,0,0,0,,Exorcise the curse. Rescue the children.
 Dialogue: 0,0:14:13.37,0:14:15.03,Default,Gojo,0,0,0,,And retrieve them if they're dead.
@@ -205,16 +206,16 @@ Dialogue: 0,0:14:19.49,0:14:22.54,Default,Gojoj,0,0,0,,Emerge from the darkness 
 Dialogue: 0,0:14:22.54,0:14:24.79,Default,Gojoj,0,0,0,,Purify that which is impure.
 Dialogue: 0,0:14:29.93,0:14:31.64,Default,Okkotsu,0,0,0,,It's getting dark!
 Dialogue: 0,0:14:32.97,0:14:34.64,Default,Gojo,0,0,0,,It's a Veil.
-Dialogue: 0,0:14:34.64,0:14:39.97,Default,Gojo,0,0,0,,It's a barrier that will smoke out the curse \Nand keep you guys concealed from the outside world.
+Dialogue: 0,0:14:34.64,0:14:39.97,Default,Gojo,0,0,0,,It's a barrier that will smoke out the curse \Nand keep you guys concealed from the outside world. {world?}
 Dialogue: 0,0:14:41.77,0:14:43.81,Default,Gojo,0,0,0,,You can easily undo it from the inside!
 Dialogue: 0,0:14:46.69,0:14:48.90,Default,Gojo,0,0,0,,Now, do be careful not to die on us.
-Dialogue: 0,0:14:49.31,0:14:51.16,Default,Gojo,0,0,0,,R-Really?
+Dialogue: 0,0:14:49.31,0:14:51.16,Default,Gojo,0,0,0,,R-Really? {timing}
 Dialogue: 0,0:14:51.16,0:14:53.82,Default,Okkotsu,0,0,0,,Wait, {*}Sir{*Sensei}!
 Dialogue: 0,0:14:53.82,0:14:55.36,Default,Maki,0,0,0,,Hey, transfer student.
-Dialogue: 0,0:14:56.53,0:14:58.41,Default,Maki,0,0,0,,Don't get distracted.
+Dialogue: 0,0:14:56.53,0:14:58.41,Default,Maki,0,0,0,,Don't {let yourself}get distracted.
 Dialogue: 0,0:15:03.94,0:15:08.85,Default,Curse,0,0,0,,Put... me... on?
 Dialogue: 0,0:15:12.47,0:15:15.38,Default,Curse,0,0,0,,Put me on?
-Dialogue: 0,0:15:16.13,0:15:17.38,Default,Okkotsu,0,0,0,,I-It's coming this way!
+Dialogue: 0,0:15:16.13,0:15:17.38,Default,Okkotsu,0,0,0,,T-They're coming this way! {it's?}
 Dialogue: 0,0:15:17.76,0:15:19.30,Default,Okkotsu,0,0,0,,Wh-Wh-What do we do?!
 Dialogue: 0,0:15:19.30,0:15:20.64,Default,Maki,0,0,0,,Be quiet.
 Dialogue: 0,0:15:24.98,0:15:25.98,Default,Maki,0,0,0,,Here's a lesson for you. {Remember this.}
@@ -222,25 +223,25 @@ Dialogue: 0,0:15:26.31,0:15:30.36,Default,Maki,0,0,0,,The weaker they are, \Nthe
 Dialogue: 0,0:15:35.70,0:15:38.49,Default,Maki,0,0,0,,Though, I guess it's the same for humans.
 Dialogue: 0,0:15:38.95,0:15:40.33,Italics,Okkotsu,0,0,0,,{\i1}Incredible...
 Dialogue: 0,0:15:41.71,0:15:43.00,Italics,Okkotsu,0,0,0,,{\i1}With just one swing!
-Dialogue: 0,0:15:44.71,0:15:46.66,Default,Maki,0,0,0,,Come on, lets move it.
+Dialogue: 0,0:15:44.71,0:15:46.66,Default,Maki,0,0,0,,Come on, let's move it.
 Dialogue: 0,0:15:46.66,0:15:48.37,Default,Okkotsu,0,0,0,,Huh? Where to?
-Dialogue: 0,0:15:48.87,0:15:50.67,Default,Maki,0,0,0,,Inside the school, obviously.
-Dialogue: 0,0:16:01.98,0:16:04.98,Default,Okkotsu,0,0,0,,Aren't you scared, Zenin{**-san}?
+Dialogue: 0,0:15:48.87,0:15:50.67,Default,Maki,0,0,0,,Inside{ the school}, obviously.
+Dialogue: 0,0:16:01.98,0:16:04.98,Default,Okkotsu,0,0,0,,Aren't you{ at least a little bit} scared, Zenin{**-san}?
 Dialogue: 0,0:16:04.98,0:16:06.48,Default,Maki,0,0,0,,Don't use my last name.
 Dialogue: 0,0:16:06.48,0:16:08.52,Default,Okkotsu,0,0,0,,S-Sorry...
 Dialogue: 0,0:16:08.52,0:16:11.17,Default,Okkotsu,0,0,0,,It's just... it feels like this place is haunted!
 Dialogue: 0,0:16:12.65,0:16:14.44,Default,Okkotsu,0,0,0,,It's like we're being watched. {tlc: ghosts are watching them or they're watching the ghosts?}
 Dialogue: 0,0:16:14.69,0:16:18.44,Italics,Maki,0,0,0,,{\i1}Not a lot of curses here \Neven though the Veil's been drawn.
-Dialogue: 0,0:16:19.32,0:16:22.12,Italics,Maki,0,0,0,,{\i1}No, they're here. They just aren't attacking.
+Dialogue: 0,0:16:19.32,0:16:22.12,Italics,Maki,0,0,0,,{\i1}No, they are here. They just aren't attacking.
 Dialogue: 0,0:16:24.79,0:16:27.37,Italics,Maki,0,0,0,,{\i1}Is it because he's here?
 Dialogue: 0,0:16:27.37,0:16:29.37,Default,Okkotsu,0,0,0,,S-Something just moved!
 Dialogue: 0,0:16:29.84,0:16:30.76,Default,Maki,0,0,0,,Hey!
 Dialogue: 0,0:16:30.76,0:16:31.67,Default,Okkotsu,0,0,0,,Yes?!
 Dialogue: 0,0:16:32.21,0:16:34.26,Default,Maki,0,0,0,,What grade are you?
-Dialogue: 0,0:16:34.54,0:16:36.26,Default,Okkotsu,0,0,0,,Um, in English proficiency?
+Dialogue: 0,0:16:34.54,0:16:36.26,Default,Okkotsu,0,0,0,,Um, like in English proficiency?
 Dialogue: 0,0:16:36.63,0:16:39.85,Default,Maki,0,0,0,,Sorcerers are ranked in grades one through four.
-Dialogue: 0,0:16:39.85,0:16:43.52,Default,Okkotsu,0,0,0,,But I only just joined Jujutsu Tech.
-Dialogue: 0,0:16:44.22,0:16:45.64,Default,Okkotsu,0,0,0,,I don't think I got one.
+Dialogue: 0,0:16:39.85,0:16:43.52,Default,Okkotsu,0,0,0,,But I only started at Jujutsu Tech this week. {rly?}
+Dialogue: 0,0:16:44.22,0:16:45.64,Default,Okkotsu,0,0,0,,I don't think I'm ranked yet. {got one}
 Dialogue: 0,0:16:46.02,0:16:48.56,Default,Maki,0,0,0,,Ugh, forget it.
 Dialogue: 0,0:16:48.56,0:16:50.41,Default,Maki,0,0,0,,Just show me your student ID.
 Dialogue: 0,0:16:50.41,0:16:52.53,Default,Maki,0,0,0,,You got one from that blindfolded dumbass, right?
@@ -251,11 +252,11 @@ Dialogue: 0,0:17:02.91,0:17:04.16,Default,Maki,0,0,0,,{\i1}Special grade?!
 Dialogue: 0,0:17:04.87,0:17:08.62,Italics,Maki,0,0,0,,{\i1}That means he's even higher than first grade?
 Dialogue: 0,0:17:08.62,0:17:11.96,Italics,Maki,0,0,0,,{\i1}This has to be some kind of joke!
 Dialogue: 0,0:17:10.88,0:17:11.96,Default,Okkotsu,0,0,0,,{\an8}Um, Zenin{**-san}...
-Dialogue: 0,0:17:12.30,0:17:13.88,Default,Okkotsu,0,0,0,,Zenin{**-san}! Zenin{**-san}!
-Dialogue: 0,0:17:14.21,0:17:15.50,Default,Okkotsu,0,0,0,,Behind you.
+Dialogue: 0,0:17:12.30,0:17:13.88,Default,Okkotsu,0,0,0,,Zenin{**-san}! Zenin{**-san}! {MISS ZENIN?!}
+Dialogue: 0,0:17:14.21,0:17:15.50,Default,Okkotsu,0,0,0,,Behind you. {!}
 Dialogue: 0,0:17:29.31,0:17:30.48,Default,Maki,0,0,0,,Shit!
-Dialogue: 0,0:17:31.32,0:17:33.19,Default,Maki,0,0,0,,Kinda big, aren't you?!
-Dialogue: 0,0:17:33.65,0:17:35.77,Default,Maki,0,0,0,,You bastard! {???}
+Dialogue: 0,0:17:31.32,0:17:33.19,Default,Maki,0,0,0,,A little too big, aren't ya?!
+Dialogue: 0,0:17:33.65,0:17:35.77,Default,Maki,0,0,0,,Take this, you bastard! {???}
 Dialogue: 0,0:17:43.37,0:17:49.75,Default,BlueCurse,0,0,0,,Thank, thank, thanks for the meal.
 Dialogue: 0,0:17:51.75,0:17:53.59,Default,Maki,0,0,0,,Damn it, damn it!
 Dialogue: 0,0:17:53.59,0:17:55.25,Default,Maki,0,0,0,,I dropped my cursed tool!
@@ -266,13 +267,13 @@ Dialogue: 0,0:18:04.47,0:18:06.41,Default,Maki,0,0,0,,You shouldn't be passing o
 Dialogue: 0,0:18:06.89,0:18:08.72,Default,Okkotsu,0,0,0,,You mean it ate us?!
 Dialogue: 0,0:18:09.14,0:18:10.15,Default,Maki,0,0,0,,Damn right!
 Dialogue: 0,0:18:10.15,0:18:13.06,Default,Maki,0,0,0,,Where's that curse of yours when we need it?!
-Dialogue: 0,0:18:13.06,0:18:16.98,Default,Okkotsu,0,0,0,,Even I don't know what makes Rika{**-chan} come out!
+Dialogue: 0,0:18:13.06,0:18:16.98,Default,Okkotsu,0,0,0,,Even I don't know what makes Rika{**-chan} {decide to}come out!
 Dialogue: 0,0:18:16.98,0:18:19.06,Default,Okkotsu,0,0,0,,More importantly, what do we do now?!
-Dialogue: 0,0:18:19.06,0:18:22.32,Default,Maki,0,0,0,,We can expect some help \Nafter some time when the Veil is lifted.
+Dialogue: 0,0:18:19.06,0:18:22.32,Default,Maki,0,0,0,,We can expect help sometime after the Veil is lifted.
 Dialogue: 0,0:18:23.32,0:18:25.70,Default,Maki,0,0,0,,It's so embarrassing, damn it!
 Dialogue: 0,0:18:26.20,0:18:27.32,Default,KidA,0,0,0,,Help!
-Dialogue: 0,0:18:28.07,0:18:28.95,Default,Maki,0,0,0,,Huh?
-Dialogue: 0,0:18:29.41,0:18:32.14,Default,KidA,0,0,0,,Please! He's about to die!
+Dialogue: 0,0:18:28.07,0:18:28.95,Default,Maki,0,0,0,,Huh? {Who's there}
+Dialogue: 0,0:18:29.41,0:18:32.14,Default,KidA,0,0,0,,Please{help}! He's about to die!
 Dialogue: 0,0:18:35.67,0:18:39.04,Default,Okkotsu,0,0,0,,You're saying they were kidnapped by a curse?
 Dialogue: 0,0:18:39.04,0:18:41.89,Default,Gojo,0,0,0,,Yup, two that we know of.
 Dialogue: 0,0:18:41.89,0:18:44.76,Default,Gojo,0,0,0,,Exorcise the curse. Rescue the children.
@@ -284,7 +285,7 @@ Dialogue: 0,0:18:54.31,0:18:57.44,Default,Maki,0,0,0,,The big one's obviously be
 Dialogue: 0,0:18:57.44,0:18:59.74,Default,Maki,0,0,0,,Both of them could die at any moment.
 Dialogue: 0,0:19:00.99,0:19:02.45,Default,Okkotsu,0,0,0,,No way...
 Dialogue: 0,0:19:03.03,0:19:04.11,Default,Okkotsu,0,0,0,,What do we do?!
-Dialogue: 0,0:19:04.11,0:19:05.74,Default,Maki,0,0,0,,There's nothing we can do!
+Dialogue: 0,0:19:04.11,0:19:05.74,Default,Maki,0,0,0,,There's nothing we can do! {CAN}
 Dialogue: 0,0:19:05.74,0:19:07.86,Default,Maki,0,0,0,,We have no choice but to wait for help.
 Dialogue: 0,0:19:08.16,0:19:12.58,Default,Maki,0,0,0,,Not everyone has resistance to curses like you.
 Dialogue: 0,0:19:14.29,0:19:15.42,Default,Okkotsu,0,0,0,,Zenin{**-san}?
@@ -315,9 +316,9 @@ Dialogue: 0,0:20:57.10,0:20:58.06,Default,Okkotsu,0,0,0,,Rika{**-chan}.
 Dialogue: 0,0:20:59.82,0:21:00.73,Default,Rika,0,0,0,,What's up?
 Dialogue: 0,0:21:03.32,0:21:04.69,Default,Okkotsu,0,0,0,,Lend me your strength.
 Dialogue: 0,0:21:16.54,0:21:20.55,Default,BlueCurse,0,0,0,,Who are you?
-Dialogue: 0,0:21:28.75,0:21:31.76,Default,Rika,0,0,0,,Be quiet!
+Dialogue: 0,0:21:28.75,0:21:31.76,Default,Rika,0,0,0,,Be quiet! {That's enough out of you!}
 Dialogue: 0,0:21:35.01,0:21:36.89,Default,Gojo,0,0,0,,Now that's terrifying.
-Dialogue: 0,0:21:37.47,0:21:42.07,Default,Gojo,0,0,0,,So the special-grade cursed apparition, Orimoto Rika, has fully manifested. {is this the first time?}
+Dialogue: 0,0:21:37.47,0:21:42.07,Default,Gojo,0,0,0,,So the special-grade vengeful spirit, Orimoto Rika, has fully manifested. {is this the first time?}
 Dialogue: 0,0:21:44.65,0:21:45.90,Default,Gojo,0,0,0,,Oh my, how freaky.
 Dialogue: 0,0:21:46.82,0:21:48.02,Default,Rika,0,0,0,,Wow!
 Dialogue: 0,0:21:48.52,0:21:49.95,Default,Rika,0,0,0,,So pretty!
@@ -325,20 +326,20 @@ Dialogue: 0,0:21:50.99,0:21:53.99,Default,Rika,0,0,0,,I'm so pretty!
 Dialogue: 0,0:21:53.99,0:21:56.62,Default,Rika,0,0,0,,I love it!
 Dialogue: 0,0:22:04.71,0:22:05.88,Default,Okkotsu,0,0,0,,Hang on, everyone! {i'm sorry for the pun}
 Dialogue: 0,0:22:07.34,0:22:09.00,Default,Okkotsu,0,0,0,,Just a little more!
-Dialogue: 0,0:22:10.18,0:22:12.43,Italics,Okkotsu,0,0,0,,{\i1}I need to hurry and get them to {*}Teacher{*Sensei}
-Dialogue: 0,0:22:13.22,0:22:16.22,Italics,Okkotsu,0,0,0,,{\i1}while Rika{**-chan} is distracting the curse!
-Dialogue: 0,0:22:26.19,0:22:28.23,Italics,Okkotsu,0,0,0,,{\i1}Don't fall now!
+Dialogue: 0,0:22:10.18,0:22:12.43,Italics,Okkotsu,0,0,0,,{\i1}I need to hurry and get them to {*}Teacher{*Sensei}.
+Dialogue: 0,0:22:13.22,0:22:16.22,Italics,Okkotsu,0,0,0,,{\i1}I hope Rika{**-chan} keeps the curse distracted until then.
+Dialogue: 0,0:22:26.19,0:22:28.23,Italics,Okkotsu,0,0,0,,{\i1}Don't fall now! {italics? x3}
 Dialogue: 0,0:22:29.44,0:22:30.49,Italics,Okkotsu,0,0,0,,{\i1}Not yet!
-Dialogue: 0,0:22:35.57,0:22:40.88,Italics,Okkotsu,0,0,0,,{\i1}Haven't you already decided\N that it's about time for a change?!
+Dialogue: 0,0:22:35.57,0:22:40.88,Italics,Okkotsu,0,0,0,,{\i1}I've decided it's about time. I'm gonna change. {Haven't you already decided\N that it's about time for a change?!}
 Dialogue: 0,0:22:43.21,0:22:47.36,Default,Rika,0,0,0,,You can do it, Yuta.
 Dialogue: 0,0:22:52.34,0:22:53.48,Default,Okkotsu,0,0,0,,I will!
 Dialogue: 0,0:22:58.97,0:23:00.35,Default,Gojo,0,0,0,,Welcome back.
 Dialogue: 0,0:23:01.40,0:23:02.60,Default,Gojo,0,0,0,,You did well.
 Dialogue: 0,0:23:09.95,0:23:13.11,Default,Gojo,0,0,0,,They say both Maki and the kids will be fine.
-Dialogue: 0,0:23:13.82,0:23:15.20,Default,Okkotsu,0,0,0,,Thank goodness.
+Dialogue: 0,0:23:13.82,0:23:15.20,Default,Okkotsu,0,0,0,,That's a relief. {Thank goodness.}
 Dialogue: 0,0:23:16.24,0:23:18.62,Default,Gojo,0,0,0,,You don't look too relieved.
 Dialogue: 0,0:23:20.25,0:23:24.25,Default,Okkotsu,0,0,0,,I managed to call out Rika{**-chan} for the first time. {yep first time}
-Dialogue: 0,0:23:24.58,0:23:27.25,Default,Gojo,0,0,0,,Really? That's a step foward.
+Dialogue: 0,0:23:24.58,0:23:27.25,Default,Gojo,0,0,0,,Really? That's a big step forward.
 Dialogue: 0,0:24:12.63,0:24:14.30,Default,Okkotsu,0,0,0,,One, two...
 Dialogue: 0,0:24:16.47,0:24:18.51,Default,Rika,0,0,0,,Slow down, Yuta!
 Dialogue: 0,0:24:20.06,0:24:22.18,Default,Rika,0,0,0,,I said slow down! {but she didn't}
@@ -348,20 +349,20 @@ Dialogue: 0,0:24:38.69,0:24:39.91,Default,Rika,0,0,0,,It's a promise.
 Dialogue: 0,0:24:40.20,0:24:43.91,Default,Rika,0,0,0,,When we grow up, we'll get married.
 Dialogue: 0,0:24:45.00,0:24:46.00,Default,Okkotsu,0,0,0,,Sure!
 Dialogue: 0,0:24:50.92,0:24:56.71,Default,Okkotsu,0,0,0,,Then we'll be together forever and ever!
-Dialogue: 0,0:24:59.81,0:25:00.97,Default,Gojo,0,0,0,,What's wrong?
+Dialogue: 0,0:24:59.81,0:25:00.97,Default,Gojo,0,0,0,,What's wrong? {You... okay?}
 Dialogue: 0,0:25:01.97,0:25:03.10,Default,Okkotsu,0,0,0,,Oh, it's nothing.
-Dialogue: 0,0:25:03.77,0:25:06.35,Default,Okkotsu,0,0,0,,I just remembering something.
-Dialogue: 0,0:25:07.47,0:25:10.32,Default,Okkotsu,0,0,0,,I don't think Rika{**-chan} cursed me.
+Dialogue: 0,0:25:03.77,0:25:06.35,Default,Okkotsu,0,0,0,,I just remembered something.
+Dialogue: 0,0:25:07.47,0:25:10.32,Default,Okkotsu,0,0,0,,I'm starting to think Rika{**-chan} didn't curse me. {I don't think Rika{**-chan} cursed me.}
 Dialogue: 0,0:25:11.32,0:25:14.36,Default,Okkotsu,0,0,0,,I think I might have cursed Rika{**-chan} instead.
-Dialogue: 0,0:25:16.90,0:25:21.35,Default,Gojo,0,0,0,,This is my personal opinion, \Nbut love is the most twisted curse of all. {"IMHO"}
+Dialogue: 0,0:25:16.90,0:25:21.35,Default,Gojo,0,0,0,,This is just a personal opinion, \Nbut love is the most twisted curse of all. {"IMHO"}
 Dialogue: 0,0:25:28.58,0:25:29.59,Default,Okkotsu,0,0,0,,{*}Sir{*Sensei}, I've decided.
 Dialogue: 0,0:25:30.59,0:25:37.50,Default,Okkotsu,0,0,0,,I'll learn all I can at Jujutsu Tech and break Rika{**-chan}'s curse. {callback to the beginning}
-Dialogue: 0,0:25:58.11,0:26:04.58,Default,DirectorA,0,0,0,,The special-grade cursed apparition, \NOrimoto Rika, was fully manifested for 422 seconds. {def the first time}
+Dialogue: 0,0:25:58.11,0:26:04.58,Default,DirectorA,0,0,0,,The special-grade vengeful spirit, \NOrimoto Rika, was fully manifested for 422 seconds. {def the first time} {422 or 442?}
 Dialogue: 0,0:26:04.91,0:26:09.75,Default,DirectorA,0,0,0,,We entrusted you with Okkotsu precisely to prevent situations like this.
 Dialogue: 0,0:26:09.75,0:26:13.29,Default,DirectorA,0,0,0,,There is no room for excuses, Gojo Satoru.
 Dialogue: 0,0:26:13.84,0:26:17.50,Default,Gojo,0,0,0,,Well, I never really planned on making any.
 Dialogue: 0,0:26:17.50,0:26:19.38,Default,DirectorB,0,0,0,,How dare you take this lightly?!
-Dialogue: 0,0:26:19.38,0:26:24.60,Default,DirectorB,0,0,0,,Had Orimoto Rika's rampage continued, an entire town could have wiped out!
+Dialogue: 0,0:26:19.38,0:26:24.60,Default,DirectorB,0,0,0,,Had Orimoto Rika's rampage continued, an entire town could have been wiped out!
 Dialogue: 0,0:26:25.01,0:26:27.60,Default,Gojo,0,0,0,,I would've risked my life to stop that.
 Dialogue: 0,0:26:28.14,0:26:32.61,Default,Gojo,0,0,0,,But there's only one word I'd use to describe this curse:
 Dialogue: 0,0:26:33.31,0:26:34.61,Default,Gojo,0,0,0,,Incomprehensible.
@@ -379,28 +380,28 @@ Dialogue: 0,0:27:15.23,0:27:17.73,Default,Gojo,0,0,0,,I gotta be careful.
 Dialogue: 0,0:27:17.98,0:27:24.41,Default,Gojo,0,0,0,,Besides, no one's allowed to take youth away from the young.
 Dialogue: 0,0:27:31.04,0:27:33.75,Default,Panda,0,0,0,,Last lap for Maki and Toge!
 Dialogue: 0,0:27:36.87,0:27:38.58,Default,Gojo,0,0,0,,Absolutely no one.
-Dialogue: 0,0:27:48.88,0:27:50.52,Default,Gojo,0,0,0,,All right, go ahead.
+Dialogue: 0,0:27:48.88,0:27:50.52,Default,Gojo,0,0,0,,All right, go ahead. {after you}
 Dialogue: 0,0:27:50.52,0:27:52.19,Default,Okkotsu,0,0,0,,Oh, sure.
 Dialogue: 0,0:28:05.07,0:28:09.75,Default,Gojo,0,0,0,,A curse as strong as Orimoto Rika \Nis pretty much impossible to exorcise.
 Dialogue: 0,0:28:09.75,0:28:12.46,Default,Gojo,0,0,0,,Breaking it, however, is a totally different story.
 Dialogue: 0,0:28:13.00,0:28:18.33,Default,Gojo,0,0,0,,Analyze the tens of thousands of knots \Nof cursed energy and unravel them one by one.
 Dialogue: 0,0:28:19.33,0:28:23.09,Default,Gojo,0,0,0,,It's something that can only be done \Nby you—the one who is cursed.
 Dialogue: 0,0:28:23.67,0:28:25.55,Default,Okkotsu,0,0,0,,What exactly do I do?
-Dialogue: 0,0:28:25.55,0:28:27.34,Default,Gojo,0,0,0,,Use this.
+Dialogue: 0,0:28:25.55,0:28:27.34,Default,Gojo,0,0,0,,Use this. {Here}
 Dialogue: 0,0:28:30.64,0:28:32.10,Default,Okkotsu,0,0,0,,A sword?
 Dialogue: 0,0:28:32.10,0:28:35.77,Default,Gojo,0,0,0,,Curses are most stable when they're possessing something.
 Dialogue: 0,0:28:36.18,0:28:40.24,Default,Gojo,0,0,0,,Back then, you used the ring to connect to Orimoto Rika.
-Dialogue: 0,0:28:40.90,0:28:42.77,Default,Gojo,0,0,0,,That connection is still there.
+Dialogue: 0,0:28:40.90,0:28:42.77,Default,Gojo,0,0,0,,The pipeline is already there.
 Dialogue: 0,0:28:43.32,0:28:47.61,Default,Gojo,0,0,0,,You just need to borrow some of Rika's curse,\N infuse it into the sword, and control it.
-Dialogue: 0,0:28:48.28,0:28:52.83,Default,Gojo,0,0,0,,Increase the amount as you repeat it \Nand eventually you'll master it.
+Dialogue: 0,0:28:48.28,0:28:52.83,Default,Gojo,0,0,0,,Increase the amount as you repeat it \Nand eventually, you'll master it.
 Dialogue: 0,0:28:53.66,0:28:55.75,Default,Gojo,0,0,0,,Do that and you'll be free. {ereh?}
 Dialogue: 0,0:28:57.33,0:28:59.71,Default,Gojo,0,0,0,,Both you and her.
 Dialogue: 0,0:29:01.01,0:29:03.80,Default,Okkotsu,0,0,0,,So I have to channel the curse through the sword...
-Dialogue: 0,0:29:03.80,0:29:05.63,Default,Gojo,0,0,0,,And there's one more thing!
+Dialogue: 0,0:29:03.80,0:29:05.63,Default,Gojo,0,0,0,,And there's one more thing! {But that's not all!}
 Dialogue: 0,0:29:05.63,0:29:07.92,Default,Gojo,0,0,0,,You need to learn sword fighting as well.
 Dialogue: 0,0:29:08.88,0:29:12.06,Default,Gojo,0,0,0,,You're super weak, after all.
 Dialogue: 0,0:29:12.52,0:29:15.22,Default,Gojo,0,0,0,,We're gonna put you through the wringer!
-Dialogue: 0,0:29:47.26,0:29:48.34,Default,Toge,0,0,0,,Tuna.
+Dialogue: 0,0:29:47.26,0:29:48.34,Default,Toge,0,0,0,,Tuna. {some oh nice line missing before this?}
 Dialogue: 0,0:30:06.40,0:30:09.66,Default,Gojo,0,0,0,,Hey, what's up! How's it going?
 Dialogue: 0,0:30:09.66,0:30:11.58,Default,Okkotsu,0,0,0,,Oh, hey—
 Dialogue: 0,0:30:12.45,0:30:14.28,Default,Maki,0,0,0,,Don't get distracted.
@@ -408,21 +409,21 @@ Dialogue: 0,0:30:15.16,0:30:16.16,Default,Okkotsu,0,0,0,,Right.
 Dialogue: 0,0:30:16.16,0:30:17.91,Default,Maki,0,0,0,,Take your stance already, idiot!
 Dialogue: 0,0:30:17.91,0:30:19.12,Italics,Okkotsu,0,0,0,,{\i1}Wow, harsh!
 Dialogue: 0,0:30:19.79,0:30:20.59,Default,Okkotsu,0,0,0,,Right!
-Dialogue: 0,0:30:21.42,0:30:24.09,Default,Maki,0,0,0,,You were gonna score a hit on me, right?
+Dialogue: 0,0:30:21.42,0:30:24.09,Default,Maki,0,0,0,,You were gonna score a hit on me, right? {are you... sometime today?}
 Dialogue: 0,0:30:26.75,0:30:27.59,Default,Okkotsu,0,0,0,,Yes!
 Dialogue: 0,0:30:43.19,0:30:44.31,Italics,Okkotsu,0,0,0,,{\i1}She dodged that?!
 Dialogue: 0,0:30:45.15,0:30:46.36,Italics,Okkotsu,0,0,0,,{\i1}But she's off-balance!
 Dialogue: 0,0:30:46.36,0:30:48.40,Italics,Okkotsu,0,0,0,,{\i1}I'll get her on the landing!
 Dialogue: 0,0:30:51.12,0:30:52.03,Default,Okkotsu,0,0,0,,No way!
-Dialogue: 0,0:30:56.16,0:30:57.66,Default,Maki,0,0,0,,And you're dead.
+Dialogue: 0,0:30:56.16,0:30:57.66,Default,Maki,0,0,0,,Congrats, you're dead.
 Dialogue: 0,0:30:58.03,0:31:00.17,Default,Maki,0,0,0,,I win again.
 Dialogue: 0,0:31:00.50,0:31:02.67,Default,Okkotsu,0,0,0,,Was that last one necessary?
 Dialogue: 0,0:31:02.67,0:31:04.38,Default,Maki,0,0,0,,You're getting complacent.
 Dialogue: 0,0:31:04.38,0:31:06.54,Default,Maki,0,0,0,,Always treat training like it's a real battle.
 Dialogue: 0,0:31:07.29,0:31:11.68,Default,Maki,0,0,0,,Experiencing pain or avoiding it \Nmakes a huge difference in how fast you grow.
-Dialogue: 0,0:31:13.30,0:31:15.68,Italics,Okkotsu,0,0,0,,{\i1}That's right. I'm...
+Dialogue: 0,0:31:13.30,0:31:15.68,Italics,Okkotsu,0,0,0,,{\i1}That's right. I've...
 Dialogue: 0,0:31:16.64,0:31:20.35,Default,Okkotsu,0,0,0,,One more time, please!
-Dialogue: 0,0:31:21.73,0:31:25.19,Italics,Okkotsu,0,0,0,,{\i1}I'm going to break Rika{**-chan}'s curse!
+Dialogue: 0,0:31:21.73,0:31:25.19,Italics,Okkotsu,0,0,0,,{\i1}I've got to break Rika{**-chan}'s curse!
 Dialogue: 0,0:31:28.48,0:31:31.66,Default,Panda,0,0,0,,Has it only been three months since Yuta joined us?
 Dialogue: 0,0:31:31.91,0:31:34.11,Default,Panda,0,0,0,,He's moving a lot better now.
 Dialogue: 0,0:31:34.11,0:31:34.95,Default,Toge,0,0,0,,Salmon.
@@ -438,9 +439,9 @@ Dialogue: 0,0:31:56.43,0:31:59.69,Default,Panda,0,0,0,,We gotta have a super imp
 Dialogue: 0,0:32:00.10,0:32:03.10,Default,Panda,0,0,0,,Do you prefer big boobs or small boobs?
 Dialogue: 0,0:32:03.44,0:32:04.69,Italics,Okkotsu,0,0,0,,{\i1}Why now?!
 Dialogue: 0,0:32:04.89,0:32:07.69,Default,Okkotsu,0,0,0,,I-I've never really given it much thought,
-Dialogue: 0,0:32:07.69,0:32:09.06,Default,,0,0,0,,Uh-huh!
+Dialogue: 0,0:32:07.69,0:32:09.06,Default,,0,0,0,,Uh-huh! {separate ^v}
 Dialogue: 0,0:32:09.06,0:32:11.82,Default,Okkotsu,0,0,0,,but I suppose I prefer them somewhat big?
-Dialogue: 0,0:32:11.82,0:32:13.70,Default,Panda,0,0,0,,Oh-ho!
+Dialogue: 0,0:32:11.82,0:32:13.70,Default,Panda,0,0,0,,Oh-ho! {O'rly?}
 Dialogue: 0,0:32:14.32,0:32:15.45,Default,Panda,0,0,0,,Maki!
 Dialogue: 0,0:32:15.45,0:32:16.45,Default,Maki,0,0,0,,What?
 Dialogue: 0,0:32:16.95,0:32:19.28,Default,Panda,0,0,0,,{\fad(0,500)}You've got a chance!
@@ -453,7 +454,7 @@ Dialogue: 0,0:32:28.21,0:32:31.22,Default,Maki,0,0,0,,The WWF ain't coming to sa
 Dialogue: 0,0:32:29.92,0:32:31.22,Default,Okkotsu,0,0,0,,What's that all about?
 Dialogue: 0,0:32:32.01,0:32:33.05,Default,Toge,0,0,0,,Kelp.
 Dialogue: 0,0:32:37.80,0:32:41.23,Italics,Okkotsu,0,0,0,,{\i1}I still don't know much about Inumaki{**-kun}.
-Dialogue: 0,0:32:41.52,0:32:43.52,Italics,Okkotsu,0,0,0,,{\i1}I'm a bit scared to be honest.
+Dialogue: 0,0:32:41.52,0:32:43.52,Italics,Okkotsu,0,0,0,,{\i1}I'm a bit scared, to be honest.
 Dialogue: 0,0:32:45.02,0:32:48.02,Default,Gojo,0,0,0,,Okay, gather round!
 Dialogue: 0,0:32:48.60,0:32:51.61,Default,Gojo,0,0,0,,You two keep training. {tlc: what else did he say?} {Or whatever it is you're doing.}
 Dialogue: 0,0:32:52.65,0:32:54.03,Default,Gojo,0,0,0,,Toge, you've been requested.
@@ -483,7 +484,7 @@ Dialogue: 0,0:33:49.84,0:33:50.96,Default,Toge,0,0,0,,Salmon.
 Dialogue: 0,0:33:52.30,0:33:55.05,Default,Okkotsu,0,0,0,,Oh, I-I'm sorry...
 Dialogue: 0,0:33:56.42,0:33:58.09,Default,Gojo,0,0,0,,Got a minute, Yuta?
 Dialogue: 0,0:33:58.85,0:33:59.71,Default,Okkotsu,0,0,0,,Yes?
-Dialogue: 0,0:34:00.22,0:34:03.47,Default,Gojo,0,0,0,,Sorry, I won't be able supervise this time.
+Dialogue: 0,0:34:00.22,0:34:03.47,Default,Gojo,0,0,0,,Sorry, I won't be able to supervise this time.
 Dialogue: 0,0:34:03.47,0:34:07.93,Default,Gojo,0,0,0,,But this mission is easy enough for Toge \Nto handle on his own, so you can take it easy.
 Dialogue: 0,0:34:08.40,0:34:10.90,Default,Gojo,0,0,0,,There's just one thing you need to be careful about:
 Dialogue: 0,0:34:12.11,0:34:13.73,Default,Gojo,0,0,0,,Don't let Rika out.
@@ -493,16 +494,16 @@ Dialogue: 0,0:34:24.20,0:34:26.83,Default,Gojo,0,0,0,,If she were to manifest ag
 Dialogue: 0,0:34:26.83,0:34:28.33,Default,Okkotsu,0,0,0,,Would that be a problem?
 Dialogue: 0,0:34:29.42,0:34:32.34,Default,Gojo,0,0,0,,You and I will both be disposed of!
 Dialogue: 0,0:34:32.59,0:34:33.75,Default,Gojo,0,0,0,,I'm counting on you!
-Dialogue: 0,0:34:34.04,0:34:34.88,Italics,Okkotsu,0,0,0,,Wha...
-Dialogue: 0,0:34:35.85,0:34:39.89,Italics,Okkotsu,0,0,0,,{\i1}Why put all this pressure on me now?!
+Dialogue: 0,0:34:34.04,0:34:34.88,Italics,Okkotsu,0,0,0,,{Wha...}
+Dialogue: 0,0:34:35.85,0:34:39.89,Italics,Okkotsu,0,0,0,,{\i1}Why drop the bomb on me right now?! {put all this pressure on me}
 Dialogue: 0,0:34:57.15,0:34:58.36,Default,Ijichi,0,0,0,,We've arrived.
 Dialogue: 0,0:35:00.32,0:35:02.11,Default,Ijichi,0,0,0,,This is the Hapina Shopping District.
 Dialogue: 0,0:35:02.11,0:35:05.37,Default,Ijichi,0,0,0,,Most of the shops have closed down by now.
-Dialogue: 0,0:35:05.86,0:35:11.25,Default,Ijichi,0,0,0,,There are plans to demolish the \Nentire area to build a shopping mall.
-Dialogue: 0,0:35:13.71,0:35:18.04,Default,Ijichi,0,0,0,,During the inspection of the area, \Nwe confirmed a pack of low-level curses.
+Dialogue: 0,0:35:05.86,0:35:11.25,Default,Ijichi,0,0,0,,There are plans to demolish the \Nentire area and build a shopping mall.
+Dialogue: 0,0:35:13.71,0:35:18.04,Default,Ijichi,0,0,0,,During an inspection of the area, \Nwe confirmed a pack of low-level curses. {hiding along the corridors?}
 Dialogue: 0,0:35:18.40,0:35:22.53,Default,Ijichi,0,0,0,,We'd like to request for the second-grade sorcerer, Inumaki, to exorcise them.
 Dialogue: 0,0:35:22.53,0:35:25.05,Default,Ijichi,0,0,0,,Wait, where is Inumaki?
-Dialogue: 0,0:35:25.81,0:35:26.76,Default,Okkotsu,0,0,0,,Not here? {sksksk}
+Dialogue: 0,0:35:25.81,0:35:26.76,Default,Okkotsu,0,0,0,,Not here? {sksk}
 Dialogue: 0,0:35:26.76,0:35:27.97,Default,Clerk,0,0,0,,Thanks for the purchase!
 Dialogue: 0,0:35:27.97,0:35:30.31,Default,Okkotsu,0,0,0,,Oh, {*}Mr. Ijichi{*Ijichi-san}, he's over there.
 Dialogue: 0,0:35:32.71,0:35:34.06,Default,Okkotsu,0,0,0,,{\i1}He went shopping?
@@ -525,21 +526,21 @@ Dialogue: 0,0:36:38.96,0:36:40.72,Default,Curses,0,0,0,,{\an8}We have a lost chi
 Dialogue: 0,0:36:42.72,0:36:45.26,Default,Curses,0,0,0,,{\an8}Cheap stuff! Cheap stuff!
 Dialogue: 0,0:36:45.26,0:36:47.26,Default,Curses,0,0,0,,{\an8}It's not scary if we all cross it together.
 Dialogue: 0,0:36:48.01,0:36:50.85,Default,Maki,0,0,0,,The weaker they are, \Nthe more they tend to group together.
-Dialogue: 0,0:36:51.35,0:36:55.02,Default,Okkotsu,0,0,0,,Even so, there's just too many of them!
+Dialogue: 0,0:36:51.35,0:36:55.02,Default,Okkotsu,0,0,0,,Even so, there are just too many of them! {Weak or not}
 Dialogue: 0,0:37:01.36,0:37:02.49,Default,Okkotsu,0,0,0,,Inumaki{**-kun}?!
-Dialogue: 0,0:37:04.24,0:37:06.15,Default,Okkotsu,0,0,0,,It could be dangerous if you get too close! {—}
-Dialogue: 0,0:37:06.15,0:37:07.15,Default,Toge,0,0,0,,{\an5\pos(2173.585,2191.765)\alpha&H99&\t(50,450,\fscx115\fscy145\alpha&HFF&)\pos(2173.585,1279.664)}Explode.
+Dialogue: 0,0:37:04.24,0:37:06.15,Default,Okkotsu,0,0,0,,It could be dangerous if you get too close! {—} {split into two lines?}
+Dialogue: 0,0:37:06.15,0:37:07.15,Default,Toge,0,0,0,,{\an5\pos(960,908)\alpha&H99&\t(50,450,\fscx115\fscy145\alpha&HFF&)\pos(960,506)}Explode.
 Dialogue: 0,0:37:14.41,0:37:16.91,Italics,Okkotsu,0,0,0,,{\i1}Was that cursed speech?
 Dialogue: 0,0:37:18.29,0:37:20.80,Default,Okkotsu,0,0,0,,Huh? We're done already?
-Dialogue: 0,0:37:22.01,0:37:23.38,Default,Toge,0,0,0,,{\bord11.345}Tuna mayo.
+Dialogue: 0,0:37:22.01,0:37:23.38,Default,Toge,0,0,0,,{\bord5}Tuna mayo.
 Dialogue: 0,0:37:23.38,0:37:25.30,Italics,Okkotsu,0,0,0,,{\i1}His voice totally went hoarse!
 Dialogue: 0,0:37:25.59,0:37:28.46,Italics,Okkotsu,0,0,0,,{\i1}Oh, that explains the throat medicine.
 Dialogue: 0,0:37:30.68,0:37:33.06,Italics,Okkotsu,0,0,0,,{\i1}That's an incredible power,
 Dialogue: 0,0:37:33.06,0:37:35.27,Italics,Okkotsu,0,0,0,,{\i1}but it comes with a good deal of risk, too.
-Dialogue: 0,0:37:39.53,0:37:41.11,Default,Toge,0,0,0,,{\bord11.345}Bonito flakes.
+Dialogue: 0,0:37:39.53,0:37:41.11,Default,Toge,0,0,0,,{\bord5}Bonito flakes.
 Dialogue: 0,0:37:41.11,0:37:42.03,Default,Okkotsu,0,0,0,,What's wrong?
 Dialogue: 0,0:37:42.61,0:37:45.70,Default,Okkotsu,0,0,0,,Oh, you're right. The Veil isn't lifting.
-Dialogue: 0,0:37:47.57,0:37:48.73,Default,Okkotsu,0,0,0,,Huh? {sksksksksk}
+Dialogue: 0,0:37:47.57,0:37:48.73,Default,Okkotsu,0,0,0,,Huh? {sksk}
 Dialogue: 0,0:37:49.30,0:37:51.00,Default,Okkotsu,0,0,0,,Looks like we can't get out.
 Dialogue: 0,0:37:59.17,0:38:02.98,Italics,Okkotsu,0,0,0,,{\i1}This curse... there's something different about its presence.
 Dialogue: 0,0:38:03.59,0:38:04.46,Default,Zomba,0,0,0,,Zomba.
@@ -547,15 +548,15 @@ Dialogue: 0,0:38:08.05,0:38:09.13,Default,Okkotsu,0,0,0,,Inumaki{**-kun}!
 Dialogue: 0,0:38:10.43,0:38:11.60,Default,Toge,0,0,0,,Twist!
 Dialogue: 0,0:38:23.86,0:38:26.07,Default,Okkotsu,0,0,0,,Wh-Wha-What is that?!
 Dialogue: 0,0:38:32.41,0:38:33.16,Default,Okkotsu,0,0,0,,That curse...
-Dialogue: 0,0:38:33.16,0:38:34.83,Default,Okkotsu,0,0,0,,He said they'd be low-level!
-Dialogue: 0,0:38:34.83,0:38:36.37,Default,Okkotsu,0,0,0,,This isn't what we were told!
+Dialogue: 0,0:38:33.16,0:38:34.83,Default,Okkotsu,0,0,0,,He said they'd be low-level! {curses will be}
+Dialogue: 0,0:38:34.83,0:38:36.37,Default,Okkotsu,0,0,0,,This isn't what we were told! {That thing is enormous!} {That doesn't look low-level!}
 Dialogue: 0,0:38:37.03,0:38:38.70,Default,Okkotsu,0,0,0,,Even though it's smaller,
 Dialogue: 0,0:38:40.00,0:38:45.05,Default,Okkotsu,0,0,0,,it's way scarier than the one from the school.
 Dialogue: 0,0:38:46.09,0:38:48.75,Default,Okkotsu,0,0,0,,Oh! Inumaki{**-kun}, you're hurt.
 Dialogue: 0,0:38:48.75,0:38:50.22,Default,Okkotsu,0,0,0,,Is your finger all right?
 Dialogue: 0,0:38:50.76,0:38:52.72,Default,Okkotsu,0,0,0,,Man, that looks painful.
-Dialogue: 0,0:38:52.72,0:38:53.97,Default,Toge,0,0,0,,{\bord11.345}Salmon.
-Dialogue: 0,0:38:54.72,0:38:56.72,Default,Okkotsu,0,0,0,,You shouldn't mess with it!
+Dialogue: 0,0:38:52.72,0:38:53.97,Default,Toge,0,0,0,,{\bord5}Salmon.
+Dialogue: 0,0:38:54.72,0:38:56.72,Default,Okkotsu,0,0,0,,You shouldn't mess with it! {It might get worse!}
 Dialogue: 0,0:38:58.64,0:38:59.73,Default,Okkotsu,0,0,0,,Sorry.
 Dialogue: 0,0:39:00.56,0:39:01.90,Default,Okkotsu,0,0,0,,It's my fault.
 Dialogue: 0,0:39:10.66,0:39:13.41,Default,Okkotsu,0,0,0,,It doesn't seem to be chasing specifically after us.
@@ -567,19 +568,19 @@ Dialogue: 0,0:39:23.79,0:39:25.42,Default,Okkotsu,0,0,0,,Because of the Veil?
 Dialogue: 0,0:39:27.63,0:39:31.43,Default,Okkotsu,0,0,0,,Since the Veil isn't lifting, \Nwe have no choice but to exorcise it, right?
 Dialogue: 0,0:39:36.34,0:39:37.38,Default,Okkotsu,0,0,0,,Wait, Inumaki{**-kun}!
 Dialogue: 0,0:39:38.21,0:39:40.36,Default,Okkotsu,0,0,0,,Should you be moving around already?
-Dialogue: 0,0:39:41.79,0:39:43.14,Default,Toge,0,0,0,,{\bord11.345}Kelp.
+Dialogue: 0,0:39:41.79,0:39:43.14,Default,Toge,0,0,0,,{\bord5}Kelp.
 Dialogue: 0,0:39:47.30,0:39:49.22,Default,Okkotsu,0,0,0,,You're going alone?
 Dialogue: 0,0:40:14.37,0:40:16.60,Default,Okkotsu,0,0,0,,Thank you, Inumaki{**-kun}.
 Dialogue: 0,0:40:20.02,0:40:22.00,Default,Okkotsu,0,0,0,,But I'm all right.
 Dialogue: 0,0:40:28.40,0:40:30.03,Default,Okkotsu,0,0,0,,Let's do this together!
 Dialogue: 0,0:40:39.65,0:40:40.83,Default,Zomba,0,0,0,,Oh?
 Dialogue: 0,0:40:43.37,0:40:46.37,Default,Rika,0,0,0,,Go get it, Yuta!
-Dialogue: 0,0:40:51.69,0:40:53.51,Italics,Okkotsu,0,0,0,,{\i1}It's getting mad?! Why?!
-Dialogue: 0,0:40:53.51,0:40:55.34,Italics,Okkotsu,0,0,0,,{\i1}As if it wasn't scary enough already!
+Dialogue: 0,0:40:51.69,0:40:53.51,Italics,Okkotsu,0,0,0,,{\i1}It's getting mad?! Why?! {What's it mad at me for?!}
+Dialogue: 0,0:40:53.51,0:40:55.34,Italics,Okkotsu,0,0,0,,{\i1}As if it wasn't scary enough{ already}!
 Dialogue: 0,0:41:02.00,0:41:03.48,Italics,Okkotsu,0,0,0,,{\i1}Don't look away.
 Dialogue: 0,0:41:03.48,0:41:04.81,Italics,Okkotsu,0,0,0,,{\i1}Keep moving. {forward}
 Dialogue: 0,0:41:06.12,0:41:07.98,Italics,Okkotsu,0,0,0,,{\i1}Infuse the curse into the blade.
-Dialogue: 0,0:41:25.46,0:41:27.64,Italics,Okkotsu,0,0,0,,{\i1}Inumaki{**-kun} is actually very kind.
+Dialogue: 0,0:41:25.46,0:41:27.64,Italics,Okkotsu,0,0,0,,{\i1}Inumaki{**-kun} is actually very kind. {incredibly kind hearted}
 Dialogue: 0,0:41:28.25,0:41:30.67,Italics,Okkotsu,0,0,0,,{\i1}He doesn't want to curse anyone by accident
 Dialogue: 0,0:41:30.67,0:41:34.13,Italics,Okkotsu,0,0,0,,{\i1}so he speaks in rice ball ingredients—words that can't carry curses.
 Dialogue: 0,0:41:34.13,0:41:35.76,Italics,Okkotsu,0,0,0,,{\i1}He saved me today as well.
@@ -587,24 +588,24 @@ Dialogue: 0,0:41:36.09,0:41:38.30,Italics,Okkotsu,0,0,0,,{\i1}Tried to keep me a
 Dialogue: 0,0:41:39.72,0:41:45.56,Italics,Okkotsu,0,0,0,,{\i1}Back when I was nervous, \Nhe was just trying to calm me down, wasn't he?
 Dialogue: 0,0:41:52.19,0:41:52.94,Default,Zomba,0,0,0,,Zora.
 Dialogue: 0,0:41:56.69,0:41:57.61,Italics,Okkotsu,0,0,0,,{\i1}Too shallow. Its skin is so tough!
-Dialogue: 0,0:41:57.61,0:41:59.11,Italics,Okkotsu,0,0,0,,{\i1}I'm still no match for this curse.
-Dialogue: 0,0:42:02.33,0:42:06.54,Italics,Okkotsu,0,0,0,,{\i1}However...
+Dialogue: 0,0:41:57.61,0:41:59.11,Italics,Okkotsu,0,0,0,,{\i1}I'm still no match for this curse. {Maybe/I know I can't defeat this curse,}
+Dialogue: 0,0:42:02.33,0:42:06.54,Italics,Okkotsu,0,0,0,,{\i1}However... {but he can!}
 Dialogue: 0,0:42:10.38,0:42:11.30,Default,Okkotsu,0,0,0,,Inumaki{**-kun}, catch!
-Dialogue: 0,0:42:13.59,0:42:19.13,Italics,Okkotsu,0,0,0,,{\i1}I'll make sure to respond to Inumaki{**-kun}'s kindness! {Now it's my turn to come through!} {sksksk}
-Dialogue: 0,0:42:35.48,0:42:37.15,Default,Inumaki,0,0,0,,{\bord11.345}Get crushed!
+Dialogue: 0,0:42:13.59,0:42:19.13,Italics,Okkotsu,0,0,0,,{\i1}I'll make sure to respond to Inumaki{**-kun}'s kindness! {Now it's my turn to come through!} {I'm not gonna let Inumaki{**-kun}'s kindness go to waste/be for nothing!}
+Dialogue: 0,0:42:35.48,0:42:37.15,Default,Inumaki,0,0,0,,{\bord5}Get crushed!
 Dialogue: 0,0:42:44.20,0:42:45.83,Default,Okkotsu,0,0,0,,Wow!
-Dialogue: 0,0:42:45.83,0:42:46.95,Default,Toge,0,0,0,,{\bord11.345}Mustard leaf!
+Dialogue: 0,0:42:45.83,0:42:46.95,Default,Toge,0,0,0,,{\bord5}Mustard leaf!
 Dialogue: 0,0:42:49.12,0:42:51.25,Default,Okkotsu,0,0,0,,Oh, I'm fine!
 Dialogue: 0,0:42:51.25,0:42:52.54,Default,Okkotsu,0,0,0,,It's only a scratch.
-Dialogue: 0,0:42:55.21,0:42:56.16,Default,Toge,0,0,0,,{\bord11.345}Salmon.
+Dialogue: 0,0:42:55.21,0:42:56.16,Default,Toge,0,0,0,,{\bord5}Salmon.
 Dialogue: 0,0:42:58.88,0:43:01.19,Default,Okkotsu,0,0,0,,Yeah, we did it!
-Dialogue: 0,0:43:04.54,0:43:09.17,Italics,Okkotsu,0,0,0,,{\i1}Once I break Rika{**-chan}'s curse, \NI'll return to being a normal person.
+Dialogue: 0,0:43:04.54,0:43:09.17,Italics,Okkotsu,0,0,0,,{\i1}Once I break Rika{**-chan}'s curse, \NI'll be a normal person again.
 Dialogue: 0,0:43:10.69,0:43:13.19,Italics,Okkotsu,0,0,0,,{\i1}I won't be able to stay at Jujutsu Tech anymore.
 Dialogue: 0,0:43:13.70,0:43:18.16,Italics,Okkotsu,0,0,0,,{\i1}But until then, I want to be useful to everyone.
 Dialogue: 0,0:43:19.06,0:43:21.95,Default,Okkotsu,0,0,0,,Oh, what do we do about the Veil?
 Dialogue: 0,0:43:23.66,0:43:24.95,Default,Geto,0,0,0,,How unfortunate.
 Dialogue: 0,0:43:25.58,0:43:28.45,Default,Geto,0,0,0,,I was hoping I'd get to see this rumored Rika{**-chan}.
-Dialogue: 0,0:43:28.85,0:43:32.67,Default,Geto,0,0,0,,As fellow special-grades, I'm hoping we could get along.
+Dialogue: 0,0:43:28.85,0:43:32.67,Default,Geto,0,0,0,,As fellow special grades, I'm hoping we could get along.
 Dialogue: 0,0:43:34.96,0:43:37.41,Default,Geto,0,0,0,,I needed to return something you dropped, too.
 Dialogue: 0,0:43:47.39,0:43:52.31,Default,Panda,0,0,0,,Toge's cursed speech, you see, \Nis something he's been able to use since birth.
 Dialogue: 0,0:43:52.31,0:43:54.85,Default,Panda,0,0,0,,Back in the day, he struggled quite a bit.
@@ -613,11 +614,11 @@ Dialogue: 0,0:43:58.85,0:44:01.90,Default,Panda,0,0,0,,You two are quite similar
 Dialogue: 0,0:44:02.57,0:44:06.61,Default,Panda,0,0,0,,That's why he's been thinking of \Nhow to help you since the day you got here.
 Dialogue: 0,0:44:07.95,0:44:11.49,Default,Panda,0,0,0,,It's easy to misunderstand him but he's a great guy.
 Dialogue: 0,0:44:12.33,0:44:14.59,Default,Panda,0,0,0,,Please continue to be nice to him, okay?
-Dialogue: 0,0:44:15.16,0:44:16.48,Default,Okkotsu,0,0,0,,Yeah, I'll—
+Dialogue: 0,0:44:15.16,0:44:16.48,Default,Okkotsu,0,0,0,,Yeah, I will—
 Dialogue: 0,0:44:16.48,0:44:18.54,Default,Maki,0,0,0,,Come on, it's time for training!
 Dialogue: 0,0:44:18.54,0:44:20.22,Default,Okkotsu,0,0,0,,Oh, right.
 Dialogue: 0,0:44:20.22,0:44:22.01,Default,Maki,0,0,0,,Panda! What are {\i1}you{\i0} giggling about?!
-Dialogue: 0,0:44:22.01,0:44:23.09,Default,Maki,0,0,0,,Don't make me kill you! {sksksksk}
+Dialogue: 0,0:44:22.01,0:44:23.09,Default,Maki,0,0,0,,Don't make me kill you! {I see you have chosen death.}
 Dialogue: 0,0:44:23.09,0:44:25.26,Default,Panda,0,0,0,,Huh? It's nothing, though.
 Dialogue: 0,0:44:24.63,0:44:26.34,Default,Okkotsu,0,0,0,,Um, Maki{**-san}...
 Dialogue: 0,0:44:27.59,0:44:33.10,Default,Okkotsu,0,0,0,,I want to channel cursed energy through my sword more smoothly. Do you know any tricks?
@@ -630,7 +631,7 @@ Dialogue: 0,0:44:56.66,0:44:57.66,Default,Nitta,0,0,0,,You bet!
 Dialogue: 0,0:45:30.06,0:45:31.20,Default,Ijichi,0,0,0,,My apologies.
 Dialogue: 0,0:45:32.18,0:45:39.51,Default,Ijichi,0,0,0,,Our inspection revealed that someone had cast another Veil on top of my own.
 Dialogue: 0,0:45:39.51,0:45:44.54,Default,Ijichi,0,0,0,,Additionally, a semi-first-grade curse made an unexpected appearance.
-Dialogue: 0,0:45:45.25,0:45:47.90,Default,Ijichi,0,0,0,,It's my fault for not being more thorough.
+Dialogue: 0,0:45:45.25,0:45:47.90,Default,Ijichi,0,0,0,,It's my fault for not being more thorough. {as thorough as I should have.}
 Dialogue: 0,0:45:48.44,0:45:49.89,Default,Ijichi,0,0,0,,I accept full responsibility for this!
 Dialogue: 0,0:45:49.89,0:45:52.91,Default,Gojo,0,0,0,,No, it's fine. You were just outclassed.
 Dialogue: 0,0:45:52.91,0:45:54.47,Default,Ijichi,0,0,0,,You mean...
@@ -639,7 +640,7 @@ Dialogue: 0,0:46:13.20,0:46:14.99,Default,Gojo,0,0,0,,Geto Suguru.
 Dialogue: 0,0:46:16.54,0:46:18.99,Default,Gojo,0,0,0,,Out of the four special-grade sorcerers,
 Dialogue: 0,0:46:19.59,0:46:22.50,Default,Gojo,0,0,0,,he's the one who was banished from Jujutsu Tech
 Dialogue: 0,0:46:23.09,0:46:26.00,Default,Gojo,0,0,0,,for cursing over a hundred normal people to death. {civilians?}
-Dialogue: 0,0:46:26.25,0:46:28.17,Default,Gojo,0,0,0,,He's considered the worst curse user of all.
+Dialogue: 0,0:46:26.25,0:46:28.17,Default,Gojo,0,0,0,,He's considered the worst curse user ever.
 Dialogue: 0,0:46:41.77,0:46:44.32,Default,Daughter,0,0,0,,Really, I'll be fine. Let's go home now.
 Dialogue: 0,0:46:44.32,0:46:47.86,Default,Mother,0,0,0,,It's all right. Just wait a little longer.
 Dialogue: 0,0:46:47.86,0:46:48.94,Default,Daughter,0,0,0,,But...
@@ -647,18 +648,18 @@ Dialogue: 0,0:47:04.79,0:47:09.89,Default,Geto,0,0,0,,So, you said your daughter
 Dialogue: 0,0:47:10.47,0:47:12.85,Default,Geto,0,0,0,,Is that correct, {*}Mrs. Sato{*Sato-san}?
 Dialogue: 0,0:47:12.85,0:47:16.93,Default,Mother,0,0,0,,Ah, yes... um... my name is Saito, though...
 Dialogue: 0,0:47:16.93,0:47:19.43,Default,Geto,0,0,0,,No, you are {*}Sato{*Sato-san}.
-Dialogue: 0,0:47:19.43,0:47:22.48,Default,Geto,0,0,0,,Sato is better. That's what I've decided.
+Dialogue: 0,0:47:19.43,0:47:22.48,Default,Geto,0,0,0,,Sato is a better name, I decided. {Sato is better. That's what I've decided.}
 Dialogue: 0,0:47:23.31,0:47:24.40,Default,Mother,0,0,0,,Right...
 Dialogue: 0,0:47:25.48,0:47:27.52,Default,Daughter,0,0,0,,Mom, let's go home.
 Dialogue: 0,0:47:27.52,0:47:31.28,Default,Mother,0,0,0,,But you've been having trouble sleeping lately, right?
 Dialogue: 0,0:47:31.28,0:47:32.99,Default,Daughter,0,0,0,,This feels like a scam.
 Dialogue: 0,0:47:32.99,0:47:35.86,Default,Geto,0,0,0,,You constantly feel a piercing gaze upon you.
 Dialogue: 0,0:47:37.20,0:47:40.95,Default,Geto,0,0,0,,Sometimes your shoulders feel heavy and it gets hard to breath, am I right?
-Dialogue: 0,0:47:41.50,0:47:44.39,Default,Geto,0,0,0,,Almost as if you've forgotten how to breathe.
+Dialogue: 0,0:47:41.50,0:47:44.39,Default,Geto,0,0,0,,Almost as if you've forgotten how{ to breathe}.
 Dialogue: 0,0:47:45.29,0:47:49.42,Default,Geto,0,0,0,,And you often dream of being violated.
 Dialogue: 0,0:47:50.19,0:47:51.68,Default,Daughter,0,0,0,,How do you know that?
 Dialogue: 0,0:47:53.97,0:47:55.14,Default,Geto,0,0,0,,Don't move.
-Dialogue: 0,0:48:06.27,0:48:09.53,Default,Daughter,0,0,0,,Huh? No way. I feel much better!
+Dialogue: 0,0:48:06.27,0:48:09.53,Default,Daughter,0,0,0,,Huh? No way. I feel much better! {Wait. br}
 Dialogue: 0,0:48:12.53,0:48:16.53,Default,Mother,0,0,0,,Honestly, I don't know how we could ever repay you.
 Dialogue: 0,0:48:16.86,0:48:20.54,Default,Geto,0,0,0,,Please. We must all help each other in times of need.
 Dialogue: 0,0:48:20.54,0:48:22.54,Default,Geto,0,0,0,,Feel free to reach out anytime you need.
@@ -666,7 +667,7 @@ Dialogue: 0,0:48:24.29,0:48:28.25,Default,Mother,0,0,0,,See, I told you he was s
 Dialogue: 0,0:48:28.25,0:48:29.04,Default,Daughter,0,0,0,,Yeah.
 Dialogue: 0,0:48:29.84,0:48:31.43,Default,Geto,0,0,0,,Godly, huh?
 Dialogue: 0,0:48:31.95,0:48:33.76,Default,Geto,0,0,0,,Aren't you a smart one.
-Dialogue: 0,0:48:35.72,0:48:38.47,Default,Geto,0,0,0,,Filthy monkey who can't even use sorcery. {>jujutsu}
+Dialogue: 0,0:48:35.72,0:48:38.47,Default,Geto,0,0,0,,At least for a filthy monkey \Nwho can't even use sorcery. {>jujutsu}
 Dialogue: 0,0:48:38.47,0:48:40.98,Default,Suda,0,0,0,,I can see the real you, {*}Master Geto{*Geto-sama}.
 Dialogue: 0,0:48:40.98,0:48:44.35,Default,Suda,0,0,0,,The leaders have all gathered in the meeting room.
 Dialogue: 0,0:48:45.89,0:48:48.06,Default,Suda,0,0,0,,What are you doing?
@@ -677,10 +678,10 @@ Dialogue: 0,0:48:55.90,0:48:58.91,Default,Geto,0,0,0,,How long has it been since
 Dialogue: 0,0:48:59.35,0:49:02.66,Default,Geto,0,0,0,,You know what, since we're all here, \Nlet's take a group photo.
 Dialogue: 0,0:49:02.66,0:49:03.66,Default,Geto,0,0,0,,Where's the SLR?
 Dialogue: 0,0:49:03.66,0:49:04.66,Default,Suda,0,0,0,,Right here.
-Dialogue: 0,0:49:07.41,0:49:10.34,Default,Kanamori,0,0,0,,Geto! Come out here!
+Dialogue: 0,0:49:07.41,0:49:10.34,Default,Kanamori,0,0,0,,Geto! Come out here! {I want to see}
 Dialogue: 0,0:49:11.80,0:49:13.42,Default,Kanamori,0,0,0,,Geto, you bastard!
 Dialogue: 0,0:49:14.05,0:49:16.13,Default,Geto,0,0,0,,Well, if it isn't {*}Mr. Kanamori{*Kanamori-san}.
-Dialogue: 0,0:49:16.13,0:49:18.42,Default,Geto,0,0,0,,What brings you here in such a panic?
+Dialogue: 0,0:49:16.13,0:49:18.42,Default,Geto,0,0,0,,What brings you here in such a sweaty panic?
 Dialogue: 0,0:49:18.42,0:49:21.43,Default,Kanamori,0,0,0,,Quit fucking around! Hurry up and exorcise my curse!
 Dialogue: 0,0:49:21.77,0:49:24.46,Default,Kanamori,0,0,0,,Do you know how much I've paid you?!
 Dialogue: 0,0:49:24.83,0:49:25.81,Default,Geto,0,0,0,,How much?
@@ -689,17 +690,17 @@ Dialogue: 0,0:49:28.52,0:49:31.44,Default,Suda,0,0,0,,No donations for the past 
 Dialogue: 0,0:49:31.44,0:49:31.78,Default,Kanamori,0,0,0,,W-Well—
 Dialogue: 0,0:49:31.78,0:49:33.69,Default,Geto,0,0,0,,Ah, I guess we're done then.
 Dialogue: 0,0:49:33.69,0:49:35.44,Default,Kanamori,0,0,0,,What are you sayi—
-Dialogue: 0,0:49:38.90,0:49:42.20,Default,Geto,0,0,0,,All monkeys have their roles.
+Dialogue: 0,0:49:38.90,0:49:42.20,Default,Geto,0,0,0,,Monkeys all have their roles to play. {Every monkey has its role to play.}
 Dialogue: 0,0:49:43.01,0:49:47.23,Default,Geto,0,0,0,,There are money-collecting monkeys and curse-collecting monkeys.
 Dialogue: 0,0:49:47.23,0:49:48.84,Default,Geto,0,0,0,,You're the former.
 Dialogue: 0,0:49:49.20,0:49:51.80,Default,Geto,0,0,0,,If you're out of money, I have no further use for you.
 Dialogue: 0,0:49:55.38,0:49:56.92,Default,Kanamori,0,0,0,,Screw you!
 Dialogue: 0,0:49:57.51,0:50:00.43,Default,Curse,0,0,0,,Suck, suck... Suck, suck...
 Dialogue: 0,0:50:00.43,0:50:07.56,Default,Curses,0,0,0,,Suck, suck, suck, suck...
-Dialogue: 0,0:50:12.07,0:50:13.69,Default,Suda,0,0,0,,Disgusting.
+Dialogue: 0,0:50:12.07,0:50:13.69,Default,Suda,0,0,0,,Disgusting. {Totally disgusting.}
 Dialogue: 0,0:50:13.69,0:50:15.82,Default,Suda,0,0,0,,Are we really the same species?
-Dialogue: 0,0:50:16.33,0:50:19.72,Default,Geto,0,0,0,,That's why I keep saying they're all monkeys.
-Dialogue: 0,0:50:21.08,0:50:23.91,Default,Geto,0,0,0,,The time has come, my family.
+Dialogue: 0,0:50:16.33,0:50:19.72,Default,Geto,0,0,0,,That's why I keep saying they're nothing but monkeys. {all}
+Dialogue: 0,0:50:21.08,0:50:23.91,Default,Geto,0,0,0,,The time has come, my beloved family.
 Dialogue: 0,0:50:23.91,0:50:28.95,Default,Geto,0,0,0,,Let's put an end to the age of monkeys and make the age of sorcerers a reality.
 Dialogue: 0,0:50:29.63,0:50:36.05,Default,Geto,0,0,0,,We'll start by sending a declaration to the cornerstone of the world of sorcery—Jujutsu Tech.
 Dialogue: 0,0:50:36.05,0:50:37.46,Default,Geto,0,0,0,,A declaration of war. {tlc: does he actually say he's gonna destroy the place?}
@@ -721,8 +722,8 @@ Dialogue: 0,0:51:11.88,0:51:15.97,Default,Gojo,0,0,0,,There's no way I would mis
 Dialogue: 0,0:51:17.97,0:51:19.22,Default,Yaga,0,0,0,,Suguru...
 Dialogue: 0,0:51:20.43,0:51:21.72,Default,Yaga,0,0,0,,God damn! {what the fuck}
 Dialogue: 0,0:51:22.02,0:51:23.49,Default,Yaga,0,0,0,,Speak of the devil!
-Dialogue: 0,0:51:23.72,0:51:28.01,Default,Yaga,0,0,0,,Gather all sorcerers, semi-first grade and above, at the front gate!
-Dialogue: 0,0:51:29.94,0:51:31.73,Default,Maki,0,0,0,,Wouldn't you know it.
+Dialogue: 0,0:51:23.72,0:51:28.01,Default,Yaga,0,0,0,,Gather all sorcerers, semi-first grade and above, at the front gate! {emdash?}
+Dialogue: 0,0:51:29.94,0:51:31.73,Default,Maki,0,0,0,,Wouldn't you know it. {!/?}
 Dialogue: 0,0:51:31.73,0:51:33.77,Default,Panda,0,0,0,,Yuta's intuition was correct.
 Dialogue: 0,0:51:33.77,0:51:34.82,Default,Toge,0,0,0,,Salmon.
 Dialogue: 0,0:51:43.95,0:51:47.12,Default,Maki,0,0,0,,Doesn't look like a staff member, does it?
@@ -730,12 +731,12 @@ Dialogue: 0,0:51:47.12,0:51:48.82,Default,Panda,0,0,0,,Never seen a curse like t
 Dialogue: 0,0:51:48.82,0:51:50.17,Default,Toge,0,0,0,,Salmon roe.
 Dialogue: 0,0:51:50.17,0:51:52.33,Default,Okkotsu,0,0,0,,Wow, that's one big bird!
 Dialogue: 0,0:51:52.75,0:51:55.29,Default,Geto,0,0,0,,Still the same as ever.
-Dialogue: 0,0:51:55.29,0:51:59.89,Default,Nanako,0,0,0,,Whoa, {*}Master Geto{*Geto-sama}, is this really Tokyo?
+Dialogue: 0,0:51:55.29,0:51:59.89,Default,Nanako,0,0,0,,Whoa, {*}Master Geto{*Geto-sama}, is this really Tokyo? {Yuck! Please don't tell me this is what Tokyo looks like.}
 Dialogue: 0,0:51:59.89,0:52:01.43,Default,Nanako,0,0,0,,It's like, so country!
 Dialogue: 0,0:52:01.43,0:52:03.30,Default,Mimiko,0,0,0,,Nanako, that was rude.
-Dialogue: 0,0:52:03.30,0:52:06.14,Default,Nanako,0,0,0,,Okay? But you totally agree with me, don't you, Mimiko? {What?}
+Dialogue: 0,0:52:03.30,0:52:06.14,Default,Nanako,0,0,0,,Okay? But you totally agree with me, \Ndon't you, Mimiko? {What?}
 Dialogue: 0,0:52:06.14,0:52:08.47,Default,Larue,0,0,0,,Hurry up and get down already!
-Dialogue: 0,0:52:08.47,0:52:09.90,Default,Nanako,0,0,0,,Aren't you cold?
+Dialogue: 0,0:52:08.47,0:52:09.90,Default,Nanako,0,0,0,,Aren't you cold{ without a shirt}?
 Dialogue: 0,0:52:09.90,0:52:11.09,Default,Mimiko,0,0,0,,Who are they?
 Dialogue: 0,0:52:11.09,0:52:12.94,Default,Nanako,0,0,0,,Whoa! Look, it's a panda!
 Dialogue: 0,0:52:12.94,0:52:14.73,Default,Nanako,0,0,0,,It's {\i1}so{\i0} cute!
@@ -743,28 +744,28 @@ Dialogue: 0,0:52:14.73,0:52:16.31,Default,Panda,0,0,0,,And who are you guys?
 Dialogue: 0,0:52:16.31,0:52:18.81,Default,Panda,0,0,0,,{*}Master Yuta{*Yuta-san} won't forgive any intruders.
 Dialogue: 0,0:52:18.81,0:52:19.66,Default,Toge,0,0,0,,Kelp!
 Dialogue: 0,0:52:19.66,0:52:20.57,Default,Okkotsu,0,0,0,,Wha?
-Dialogue: 0,0:52:20.57,0:52:23.53,Default,Maki,0,0,0,,Get lost before you get knocked out by {*}Master Yuta{*Yuta-san}!
+Dialogue: 0,0:52:20.57,0:52:23.53,Default,Maki,0,0,0,,Get lost before you get knocked out by {*}Master Yuta{*Yuta-san}! {...get beat up. By Yuta, I mean.}
 Dialogue: 0,0:52:23.53,0:52:24.41,Default,Okkotsu,0,0,0,,Hey!
 Dialogue: 0,0:52:25.78,0:52:27.70,Default,Geto,0,0,0,,Nice to meet you, Okkotsu{**-kun}.
 Dialogue: 0,0:52:28.20,0:52:30.04,Default,Geto,0,0,0,,I'm Geto Suguru.
-Dialogue: 0,0:52:30.04,0:52:30.79,Italics,Maki&Panda,0,0,0,,He's fast! {hayai}
+Dialogue: 0,0:52:30.04,0:52:30.79,Italics,Maki&Panda,0,0,0,,{\i1}He's fast! {hayai}
 Dialogue: 0,0:52:31.17,0:52:34.67,Default,Okkotsu,0,0,0,,Huh? Oh, nice to meet you.
 Dialogue: 0,0:52:34.67,0:52:37.92,Default,Geto,0,0,0,,You possess a truly wonderful power, I see.
 Dialogue: 0,0:52:38.71,0:52:44.88,Default,Geto,0,0,0,,I believe that great power should be used towards great ends.
 Dialogue: 0,0:52:44.88,0:52:47.21,Default,Geto,0,0,0,,Have you ever questioned the current state of the world?
-Dialogue: 0,0:52:47.63,0:52:52.40,Default,Geto,0,0,0,,A world where sorcerers are forced to work in the shadows to protect the order of society.
-Dialogue: 0,0:52:53.08,0:53:00.18,Default,Geto,0,0,0,,You see, there's this established paradox \Nsaying the strong must accommodate the weak.
+Dialogue: 0,0:52:47.63,0:52:52.40,Default,Geto,0,0,0,,A world where sorcerers are forced to \Nwork in the shadows to protect the order of society.
+Dialogue: 0,0:52:53.08,0:53:00.18,Default,Geto,0,0,0,,You see, there's this established paradox \Nsaying the strong must accommodate the weak. {that mistakenly says}
 Dialogue: 0,0:53:01.34,0:53:03.38,Default,Geto,0,0,0,,How deplorable!
 Dialogue: 0,0:53:03.76,0:53:04.90,Default,Okkotsu,0,0,0,,Uh...
-Dialogue: 0,0:53:05.24,0:53:09.83,Default,Geto,0,0,0,,The apex of creation has halted its own evolution!
+Dialogue: 0,0:53:05.24,0:53:09.83,Default,Geto,0,0,0,,The apex of creation has halted its own evolution! {It's as if the apex of all creation has decided to halt its own evolution!}
 Dialogue: 0,0:53:09.83,0:53:11.08,Default,Geto,0,0,0,,What nonsense!
 Dialogue: 0,0:53:11.08,0:53:14.91,Default,Geto,0,0,0,,It's high time mankind reconsidered its strategy for survival.
 Dialogue: 0,0:53:15.50,0:53:19.08,Default,Geto,0,0,0,,Which is why we'd like you to help us.
-Dialogue: 0,0:53:19.76,0:53:21.38,Default,Okkotsu,0,0,0,,Help with what?
+Dialogue: 0,0:53:19.76,0:53:21.38,Default,Okkotsu,0,0,0,,Help you with what?
 Dialogue: 0,0:53:21.72,0:53:26.59,Default,Geto,0,0,0,,We're going to kill all non-sorcerers \Nand create a world where only sorcerers exist.
 Dialogue: 0,0:53:27.80,0:53:29.05,Italics,Maki,0,0,0,,{\i1}What did he...
 Dialogue: 0,0:53:29.05,0:53:30.73,Italics,Panda,0,0,0,,{\i1}...say just now?
-Dialogue: 0,0:53:32.77,0:53:37.56,Default,Gojo,0,0,0,,Could you keep your crazy talk away from my students?
+Dialogue: 0,0:53:32.77,0:53:37.56,Default,Gojo,0,0,0,,Could you keep your crazy talk away from my students? {Do me a solid/favor and...}
 Dialogue: 0,0:53:40.57,0:53:43.07,Default,Geto,0,0,0,,Satoru! Long time no see!
 Dialogue: 0,0:53:43.07,0:53:46.32,Default,Gojo,0,0,0,,Get away from the kids, Suguru.
 Dialogue: 0,0:53:48.61,0:53:51.66,Default,Geto,0,0,0,,I heard this year's freshers were all outstanding.
@@ -783,18 +784,18 @@ Dialogue: 0,0:54:22.71,0:54:23.56,Default,Okkotsu,0,0,0,,But...
 Dialogue: 0,0:54:24.91,0:54:28.53,Default,Okkotsu,0,0,0,,I'm not going to help someone who talks down to my friends!
 Dialogue: 0,0:54:30.79,0:54:34.41,Default,Geto,0,0,0,,My apologies. It wasn't my intention to upset you.
 Dialogue: 0,0:54:34.41,0:54:37.87,Default,Gojo,0,0,0,,Then what exactly did you come here for?
-Dialogue: 0,0:54:39.41,0:54:41.17,Default,Geto,0,0,0,,To declare war.
+Dialogue: 0,0:54:39.41,0:54:41.17,Default,Geto,0,0,0,,{I came }To declare war.
 Dialogue: 0,0:54:42.40,0:54:48.21,Default,Geto,0,0,0,,To all those gathered here, listen up very closely!
 Dialogue: 0,0:54:48.80,0:54:52.76,Default,Geto,0,0,0,,On the coming December 24th, when the sun sets,
 Dialogue: 0,0:54:52.76,0:54:55.19,Default,Geto,0,0,0,,the Night Parade of a Hundred Demons will commence!
 Dialogue: 0,0:54:56.32,0:55:00.73,Default,Geto,0,0,0,,It will take place in the Crucible of Curses, Shinjuku in Tokyo.
-Dialogue: 0,0:55:01.69,0:55:05.07,Default,Geto,0,0,0,,And in the Holy Land of Jujutsu, Kyoto.
+Dialogue: 0,0:55:01.69,0:55:05.07,Default,Geto,0,0,0,,As well as the Holy Land of Jujutsu, Kyoto.
 Dialogue: 0,0:55:05.52,0:55:08.20,Default,Geto,0,0,0,,A thousand curses will be unleashed upon each location.
 Dialogue: 0,0:55:08.20,0:55:11.03,Default,Geto,0,0,0,,Their sole command, of course, will be to massacre. {dis correct?}
 Dialogue: 0,0:55:11.78,0:55:16.16,Default,Geto,0,0,0,,If you wish to avoid a scene straight out of hell, \Nput your lives on the line and fight.
 Dialogue: 0,0:55:17.45,0:55:21.54,Default,Geto,0,0,0,,Let us curse each other to our heart's content!
 Dialogue: 0,0:55:28.06,0:55:29.42,Default,Nanako,0,0,0,,{*}Master Geto{*Geto-sama}!
-Dialogue: 0,0:55:29.42,0:55:31.14,Default,Nanako,0,0,0,,The store's about to close!
+Dialogue: 0,0:55:29.42,0:55:31.14,Default,Nanako,0,0,0,,The café is gonna close!
 Dialogue: 0,0:55:31.14,0:55:32.89,Default,Geto,0,0,0,,It's already that late?
 Dialogue: 0,0:55:33.24,0:55:34.87,Default,Geto,0,0,0,,I'm sorry, Satoru.
 Dialogue: 0,0:55:35.38,0:55:39.22,Default,Geto,0,0,0,,The girls insist on trying the crepes from Takeshita Street.
@@ -807,22 +808,22 @@ Dialogue: 0,0:55:59.92,0:56:02.50,Default,Geto,0,0,0,,Your precious students are
 Dialogue: 0,0:56:05.04,0:56:07.58,Default,Geto,0,0,0,,Well then, everyone, see you on the battlefield.
 Dialogue: 0,0:56:21.40,0:56:22.81,Default,Geto,0,0,0,,Survival of the weakest.
 Dialogue: 0,0:56:23.83,0:56:26.26,Default,Geto,0,0,0,,That's the ideal form society should take.
-Dialogue: 0,0:56:27.19,0:56:30.16,Default,Geto,0,0,0,,It should help the weak and discourage the strong.
+Dialogue: 0,0:56:27.19,0:56:30.16,Default,Geto,0,0,0,,Help the weak and discourage the strong.
 Dialogue: 0,0:56:30.16,0:56:31.91,Default,Geto,0,0,0,,Listen, Satoru.
 Dialogue: 0,0:56:31.91,0:56:34.91,Default,Geto,0,0,0,,Sorcerers exist to protect non-sorcerers.
 Dialogue: 0,0:56:34.91,0:56:37.16,Default,Gojo,0,0,0,,That's your argument?
-Dialogue: 0,0:56:37.16,0:56:39.67,Default,Gojo,0,0,0,,I hate righteousness.
+Dialogue: 0,0:56:37.16,0:56:39.67,Default,Gojo,0,0,0,,God, I hate all that righteousness. {I hate righteousness}
 Dialogue: 0,0:56:42.54,0:56:46.25,Default,Geto,0,0,0,,Are you the strongest because you're Gojo Satoru?
 Dialogue: 0,0:56:46.25,0:56:49.21,Default,Geto,0,0,0,,Or are you Gojo Satoru because you're the strongest?
-Dialogue: 0,0:56:49.21,0:56:51.01,Default,Gojo,0,0,0,,What are you trying to say?
-Dialogue: 0,0:56:51.42,0:56:57.36,Default,Geto,0,0,0,,If I could become you, then wouldn't my foolish ideals become reasonable possibilities?
-Dialogue: 0,0:57:01.02,0:57:02.85,Default,Geto,0,0,0,,I've decided how to live my life. {sksksksk} {didn't yuji say this line?}
-Dialogue: 0,0:57:02.85,0:57:06.49,Default,Geto,0,0,0,,All that's left is to do what I can to the best of my ability.
+Dialogue: 0,0:56:49.21,0:56:51.01,Default,Gojo,0,0,0,,What exactly are you trying to say?
+Dialogue: 0,0:56:51.42,0:56:57.36,Default,Geto,0,0,0,,If I could become you, then wouldn't my foolish ideals become reasonable possibilities? {switch places?}
+Dialogue: 0,0:57:01.02,0:57:02.85,Default,Geto,0,0,0,,I've already decided on the path I want to take.
+Dialogue: 0,0:57:02.85,0:57:06.49,Default,Geto,0,0,0,,All that's left is to follow it to the best of my ability.
 Dialogue: 0,0:57:45.73,0:57:47.10,Default,Ijichi,0,0,0,,Geto Suguru.
-Dialogue: 0,0:57:47.68,0:57:51.07,Default,Ijichi,0,0,0,,A special-grade curse user who uses curse manipulation.
-Dialogue: 0,0:57:51.07,0:57:56.11,Default,Ijichi,0,0,0,,He can draw in and manipulate \Nnaturally occurring, unbound curses.
-Dialogue: 0,0:57:57.01,0:58:02.58,Default,Ijichi,0,0,0,,It seems he's established a religious group to collect curses from its followers.
-Dialogue: 0,0:58:03.35,0:58:06.41,Default,Ijichi,0,0,0,,He should still have the curses he previously possessed,
+Dialogue: 0,0:57:47.68,0:57:51.07,Default,Ijichi,0,0,0,,A special-grade curse user who uses Curse Manipulation.
+Dialogue: 0,0:57:51.07,0:57:56.11,Default,Ijichi,0,0,0,,He can draw in and manipulate \Nnaturally occurring unbound curses.
+Dialogue: 0,0:57:57.01,0:58:02.58,Default,Ijichi,0,0,0,,It seems he's established a religious group \Nto collect curses from its followers.
+Dialogue: 0,0:58:03.35,0:58:06.41,Default,Ijichi,0,0,0,,He should still have the curses he previously possessed, {.}
 Dialogue: 0,0:58:06.41,0:58:11.57,Default,Ijichi,0,0,0,,and considering the recent decline in the number of curses reported,
 Dialogue: 0,0:58:12.59,0:58:16.09,Default,Ijichi,0,0,0,,his claim to possess two thousand may not be a bluff.
 Dialogue: 0,0:58:16.09,0:58:20.56,Default,Yaga,0,0,0,,Even so, statistically speaking, most of them have to be weaklings at second grade or lower.
@@ -830,17 +831,17 @@ Dialogue: 0,0:58:20.56,0:58:24.77,Default,Yaga,0,0,0,,And even with a generous e
 Dialogue: 0,0:58:24.77,0:58:28.10,Default,Gojo,0,0,0,,That's actually the scary part.
 Dialogue: 0,0:58:28.10,0:58:31.36,Default,Gojo,0,0,0,,I find it hard to believe he'd start a war he couldn't win.
 Dialogue: 0,0:58:31.54,0:58:33.28,Default,Yaga,0,0,0,,God damn!
-Dialogue: 0,0:58:33.28,0:58:38.90,Default,Yaga,0,0,0,,Put out a call for aid to all alumni, \Nthe Three Great Clans, and even the Ainu Jujutsu Society.
+Dialogue: 0,0:58:33.28,0:58:38.90,Default,Yaga,0,0,0,,Put out a call for aid to all alumni. \NAlert the Three Great Clans and the Ainu Jujutsu Society. {Put out a call for aid to all alumni, \Nthe Three Great Clans, and even the Ainu Jujutsu Society.}
 Dialogue: 0,0:58:38.90,0:58:40.41,Default,Yaga,0,0,0,,It's all-out war!
-Dialogue: 0,0:58:41.08,0:58:46.41,Default,Yaga,0,0,0,,This time, we {\i1}will{\i0} exorcise this curse called Geto!
+Dialogue: 0,0:58:41.08,0:58:46.41,Default,Yaga,0,0,0,,This time, we {\i1}will{\i0} exorcise this curse named Geto!
 Dialogue: 0,0:58:46.41,0:58:50.17,Default,Geto,0,0,0,,That's probably what the muscle-brained principal is saying right now.
 Dialogue: 0,0:59:00.63,0:59:06.81,Default,Geto,0,0,0,,If we seriously tried to kill each other, \Nour chance of success would be about thirty percent.
 Dialogue: 0,0:59:11.90,0:59:16.32,Default,Geto,0,0,0,,If the Jujutsu Society gets involved, \Nthat goes down to less than twenty percent.
 Dialogue: 0,0:59:17.18,0:59:22.54,Default,Geto,0,0,0,,However, there is one move \Nthat makes that slim chance of victory
 Dialogue: 0,0:59:23.33,0:59:25.41,Default,Geto,0,0,0,,jump straight to ninety-nine percent.
-Dialogue: 0,0:59:26.12,0:59:32.42,Default,Geto,0,0,0,,That is to kill Okkotsu Yuta and take the special-grade cursed apparition, Orimoto Rika.
-Dialogue: 0,0:59:33.38,0:59:38.42,Default,Geto,0,0,0,,They still naively believe my bluff from my time in school.
-Dialogue: 0,0:59:38.71,0:59:41.51,Default,Geto,0,0,0,,It doesn't matter if the cursed spirit is bound or not,
+Dialogue: 0,0:59:26.12,0:59:32.42,Default,Geto,0,0,0,,That is to kill Okkotsu Yuta and take the special-grade vengeful spirit, Orimoto Rika.
+Dialogue: 0,0:59:33.38,0:59:38.42,Default,Geto,0,0,0,,They completely bought my bluff back there. {They still naively believe my bluff from my time in school.}
+Dialogue: 0,0:59:38.71,0:59:41.51,Default,Geto,0,0,0,,It doesn't matter if the cursed spirit is bound or not, {.}
 Dialogue: 0,0:59:41.51,0:59:46.43,Default,Geto,0,0,0,,as long as I'm the one who kills the master, \NI can absorb any curse I want.
 Dialogue: 0,0:59:47.93,0:59:53.27,Default,Geto,0,0,0,,With such high odds of victory,\N they won't risk putting Okkotsu on the battlefield.
 Dialogue: 0,0:59:53.27,0:59:57.19,Default,Geto,0,0,0,,After all, there is a chance \Nhe could wipe out both enemies and allies.
@@ -850,18 +851,18 @@ Dialogue: 0,1:00:11.67,1:00:13.25,Default,,0,0,0,,It seems like...
 Dialogue: 0,1:00:14.93,1:00:17.42,Default,Okkotsu,0,0,0,,something crazy is going down.
 Dialogue: 0,1:00:19.64,1:00:21.05,Default,Okkotsu,0,0,0,,Maki{**-san}!
 Dialogue: 0,1:00:21.05,1:00:22.51,Default,Maki,0,0,0,,What are you doing here?
-Dialogue: 0,1:00:22.51,1:00:24.09,Default,Maki,0,0,0,,Classes are cancelled for the week.
+Dialogue: 0,1:00:22.51,1:00:24.09,Default,Maki,0,0,0,,Classes are canceled for the week.
 Dialogue: 0,1:00:24.09,1:00:26.66,Default,Okkotsu,0,0,0,,Well, I just felt kinda restless.
 Dialogue: 0,1:00:27.70,1:00:30.27,Default,Okkotsu,0,0,0,,Nobody's at the dorms, either.
 Dialogue: 0,1:00:30.27,1:00:33.94,Default,Maki,0,0,0,,The second-years were dispatched to Kyoto earlier.
-Dialogue: 0,1:00:33.94,1:00:37.27,Default,Maki,0,0,0,,Toge and the third- and fourth-years \Nare in Shinjuku as backup. {there are fourth years???}
-Dialogue: 0,1:00:37.27,1:00:41.66,Default,Maki,0,0,0,,The principal really likes Panda, \Nso he's probably with Toge.
+Dialogue: 0,1:00:33.94,1:00:37.27,Default,Maki,0,0,0,,Toge is in Shinjuku, along with the third- and fourth-years as backup. {Toge and the third- and fourth-years \Nare in Shinjuku as backup.} {Toge is with the third- and fourth-years in Shinjuku as backup.} {there are fourth years???} {fushiguro mentioned it used to be a 4-year school at some point}
+Dialogue: 0,1:00:37.27,1:00:41.66,Default,Maki,0,0,0,,And since the principal likes Panda so much, he's probably with Toge. {The principal really likes Panda, \Nso he's probably with Toge.}
 Dialogue: 0,1:00:41.66,1:00:42.74,Default,Okkotsu,0,0,0,,I see.
 Dialogue: 0,1:00:47.99,1:00:48.86,Default,Maki,0,0,0,,Ask away.
 Dialogue: 0,1:00:48.86,1:00:49.79,Default,Okkotsu,0,0,0,,Huh?
 Dialogue: 0,1:00:49.79,1:00:51.33,Default,Maki,0,0,0,,You've been wondering, right?
 Dialogue: 0,1:00:51.33,1:00:53.50,Default,Maki,0,0,0,,About why I'm called a failure.
-Dialogue: 0,1:00:54.21,1:00:58.00,Default,Okkotsu,0,0,0,,Well, um... yes.
+Dialogue: 0,1:00:54.21,1:00:58.00,Default,Okkotsu,0,0,0,,Well, um... yes. {yeah}
 Dialogue: 0,1:01:01.55,1:01:07.19,Default,Maki,0,0,0,,My family, the Zenin clan, is one of the elite sorcerer families known as the Three Great Clans.
 Dialogue: 0,1:01:07.66,1:01:11.98,Default,Maki,0,0,0,,Do you know what's the minimum requirement to be a sorcerer?
 Dialogue: 0,1:01:11.98,1:01:13.89,Default,Okkotsu,0,0,0,,Uh, I'm not sure.
@@ -869,11 +870,11 @@ Dialogue: 0,1:01:16.33,1:01:18.14,Default,Maki,0,0,0,,It's being able to see cur
 Dialogue: 0,1:01:18.14,1:01:19.39,Default,Okkotsu,0,0,0,,Oh, right.
 Dialogue: 0,1:01:20.08,1:01:24.60,Default,Maki,0,0,0,,Ordinary people can sometimes see them in certain situations, like if they're on the verge of death,
 Dialogue: 0,1:01:25.44,1:01:28.90,Default,Maki,0,0,0,,but I can't see curses without these lame glasses.
-Dialogue: 0,1:01:29.28,1:01:32.62,Default,Maki,0,0,0,,The cursed tools I use are already infused with cursed energy.
+Dialogue: 0,1:01:29.28,1:01:32.62,Default,Maki,0,0,0,,The cursed tools I use are \Nalready infused with cursed energy.
 Dialogue: 0,1:01:32.62,1:01:34.71,Default,Maki,0,0,0,,It doesn't come from me.
-Dialogue: 0,1:01:36.54,1:01:38.87,Default,Maki,0,0,0,,It gave me a good excuse to get out of the family.
+Dialogue: 0,1:01:36.54,1:01:38.87,Default,Maki,0,0,0,,It gave me a good excuse to get out of the family. {At least it...}
 Dialogue: 0,1:01:39.41,1:01:44.39,Default,Maki,0,0,0,,The food was awful, the rooms were cramped, and it was crawling with old men I didn't know.
-Dialogue: 0,1:01:44.39,1:01:46.51,Default,Maki,0,0,0,,It seriously sucked!
+Dialogue: 0,1:01:44.39,1:01:46.51,Default,Maki,0,0,0,,The whole thing totally sucked!
 Dialogue: 0,1:01:48.59,1:01:50.10,Default,Maki,0,0,0,,Don't use my last name!
 Dialogue: 0,1:01:50.47,1:01:54.81,Default,Maki,0,0,0,,Not everyone has resistance to curses like you.
 Dialogue: 0,1:01:55.09,1:01:57.14,Default,Maki,0,0,0,,Don't ask me about cursed energy.
@@ -888,34 +889,34 @@ Dialogue: 0,1:02:30.52,1:02:32.31,Default,Okkotsu,0,0,0,,I wish I could be just 
 Dialogue: 0,1:02:32.92,1:02:35.16,Default,Okkotsu,0,0,0,,I want to be strong and unyielding.
 Dialogue: 0,1:02:43.33,1:02:46.65,Default,Mother,0,0,0,,I wish I had never given birth to you.
 Dialogue: 0,1:02:47.09,1:02:49.58,Default,Mother,0,0,0,,You're the stain on the Zenin clan!
-Dialogue: 0,1:02:50.32,1:02:51.37,Default,Mother,0,0,0,,All of you...
-Dialogue: 0,1:02:52.49,1:02:56.33,Default,Mother,0,0,0,,make sure you don't turn out like Maki.
+Dialogue: 0,1:02:50.32,1:02:51.37,Default,Mother,0,0,0,,All of you... {Everyone, look at Maki.}
+Dialogue: 0,1:02:52.49,1:02:56.33,Default,Mother,0,0,0,,make sure you don't turn out like Maki. {.}
 Dialogue: 0,1:03:03.25,1:03:06.25,Default,Okkotsu,0,0,0,,If there's anything I can do to help, let me know!
-Dialogue: 0,1:03:06.25,1:03:09.76,Default,Okkotsu,0,0,0,,Let's crush the Zenin clan! Maybe.
+Dialogue: 0,1:03:06.25,1:03:09.76,Default,Okkotsu,0,0,0,,Let's crush the Zenin clan! Maybe. {You know, like, ... or something}
 Dialogue: 0,1:03:13.11,1:03:16.36,Default,Maki,0,0,0,,Moron. There's no point if I don't do it by myself.
 Dialogue: 0,1:03:17.63,1:03:18.90,Default,Maki,0,0,0,,I'm going back to my room.
 Dialogue: 0,1:03:18.90,1:03:20.40,Default,Okkotsu,0,0,0,,Okay. Later!
-Dialogue: 0,1:03:25.53,1:03:27.02,Default,Maki,0,0,0,,I'm such an idiot.
-Dialogue: 0,1:03:28.30,1:03:30.78,Default,Maki,0,0,0,,Don't go thinking you've been recognized or something!
+Dialogue: 0,1:03:25.53,1:03:27.02,Default,Maki,0,0,0,,I'm such an idiot. {Come on, Maki. Don't be an idiot.}
+Dialogue: 0,1:03:28.30,1:03:30.78,Default,Maki,0,0,0,,Don't go thinking you've been recognized or something! {you're really been accepted}
 Dialogue: 0,1:03:32.66,1:03:35.14,Default,Geto,0,0,0,,Emerge from the darkness that is darker than black.
 Dialogue: 0,1:03:35.58,1:03:38.24,Default,Geto,0,0,0,,Purify that which is impure.
 Dialogue: 0,1:03:45.67,1:03:48.13,Default,Okkotsu,0,0,0,,A Veil was drawn over the school?
 Dialogue: 0,1:03:48.13,1:03:49.76,Default,Okkotsu,0,0,0,,By who? And why?
 Dialogue: 0,1:03:56.36,1:03:59.65,Default,Yaga,0,0,0,,Keep the collateral damage to a minimum.
 Dialogue: 0,1:04:00.02,1:04:02.73,Default,Yaga,0,0,0,,There's a chance some civilians still haven't evacuated.
-Dialogue: 0,1:04:02.73,1:04:04.83,Default,Yaga,0,0,0,,If you find any, evacuate them.
+Dialogue: 0,1:04:02.73,1:04:04.83,Default,Yaga,0,0,0,,If you find any, get them outta here.
 Dialogue: 0,1:04:05.25,1:04:07.02,Default,Yaga,0,0,0,,Are you listening, Satoru?
 Dialogue: 0,1:04:07.48,1:04:11.16,Default,Gojo,0,0,0,,There's one guy who looks like trouble.
 Dialogue: 0,1:04:12.23,1:04:15.28,Default,Miguel,0,0,0,,I see. That guy with the bandages.
 Dialogue: 0,1:04:15.28,1:04:18.70,Default,Suda,0,0,0,,Yes. We'll take on the rest.
 Dialogue: 0,1:04:18.70,1:04:20.25,Default,Suda,0,0,0,,I've said this before but—
-Dialogue: 0,1:04:20.25,1:04:21.54,Default,Miguel,0,0,0,,I know.
+Dialogue: 0,1:04:20.25,1:04:21.54,Default,Miguel,0,0,0,,Yea, I know.
 Dialogue: 0,1:04:21.54,1:04:23.79,Default,Miguel,0,0,0,,We're only stalling them, right?
-Dialogue: 0,1:04:23.79,1:04:27.90,Default,Miguel,0,0,0,,Let's take it slow and have some fun until Geto finishes his job.
+Dialogue: 0,1:04:23.79,1:04:27.90,Default,Miguel,0,0,0,,Let's take it slow and have some fun \Nuntil Geto finishes his job.
 Dialogue: 0,1:04:28.88,1:04:30.68,Default,Geto,0,0,0,,You're here?
 Dialogue: 0,1:04:30.68,1:04:32.39,Default,Maki,0,0,0,,That a problem?
 Dialogue: 0,1:04:32.65,1:04:35.39,Default,Maki,0,0,0,,What the hell are you doing here?
-Dialogue: 0,1:04:37.09,1:04:40.73,Default,Geto,0,0,0,,Sorry, I don't have time to chat with monkeys.
+Dialogue: 0,1:04:37.09,1:04:40.73,Default,Geto,0,0,0,,Sorry, but I don't have time to chat with monkeys.
 Dialogue: 0,1:04:41.19,1:04:42.35,Default,Ijichi,0,0,0,,{*}Mr. Gojo{*Gojo-san}!
 Dialogue: 0,1:04:42.65,1:04:43.77,Default,Ijichi,0,0,0,,I have a report!
 Dialogue: 0,1:04:45.35,1:04:46.98,Default,Ijichi,0,0,0,,What's the matter?
@@ -936,7 +937,7 @@ Dialogue: 0,1:05:24.02,1:05:26.23,Default,Gojo,0,0,0,,I'm absolutely, probably, 
 Dialogue: 0,1:05:26.23,1:05:27.27,Default,Panda,0,0,0,,Which is it?!
 Dialogue: 0,1:05:27.73,1:05:31.38,Default,Gojo,0,0,0,,If my intuition is correct, \Nin the worst case, Yuta and Maki could both die!
 Dialogue: 0,1:05:32.45,1:05:35.32,Default,Gojo,0,0,0,,I'll head there as soon as I'm done with that foreigner.
-Dialogue: 0,1:05:35.32,1:05:38.66,Default,Gojo,0,0,0,,Until then, I'm afraid you'll have to defend them with your lives.
+Dialogue: 0,1:05:35.32,1:05:38.66,Default,Gojo,0,0,0,,Until then, I'm afraid you'll have to \Ndefend them with your lives.
 Dialogue: 0,1:05:40.54,1:05:41.87,Default,Panda,0,0,0,,Right!
 Dialogue: 0,1:05:40.54,1:05:41.87,Default,Toge,0,0,0,,Salmon!
 Dialogue: 0,1:05:45.54,1:05:47.62,Default,Suda,0,0,0,,No way. They figured it out?
@@ -946,48 +947,48 @@ Dialogue: 0,1:05:53.55,1:05:55.59,Default,Suda,0,0,0,,That's what {*}Master Geto
 Dialogue: 0,1:05:55.59,1:05:57.05,Default,Suda,0,0,0,,Mimiko, Nanako!
 Dialogue: 0,1:05:57.34,1:05:58.80,Default,Nanako,0,0,0,,What's up?
 Dialogue: 0,1:05:58.80,1:06:01.23,Italics,Suda,0,0,0,,We're stepping up the plan. Engage.
-Dialogue: 0,1:06:05.02,1:06:06.73,Default,Nanako,0,0,0,,I've been waiting! {sksk}
-Dialogue: 0,1:06:08.98,1:06:14.15,Default,Miguel,0,0,0,,Your opponent is over here, special-grade.
+Dialogue: 0,1:06:05.02,1:06:06.73,Default,Nanako,0,0,0,,I've been waiting for this! {sksk}
+Dialogue: 0,1:06:08.98,1:06:14.15,Default,Miguel,0,0,0,,Your opponent is over here, special grade.
 Dialogue: 0,1:06:14.61,1:06:16.07,Default,Gojo,0,0,0,,Sorry, it's just... {*crowd cheering*}
 Dialogue: 0,1:06:16.94,1:06:18.86,Default,Gojo,0,0,0,,I'm kind of in a hurry right now. {*intense screaming*}
 Dialogue: 0,1:06:23.00,1:06:24.45,Default,Panda,0,0,0,,There's a Veil around the school!
-Dialogue: 0,1:06:24.45,1:06:26.41,Default,Panda,0,0,0,,Was Satoru's intuition correct?
+Dialogue: 0,1:06:24.45,1:06:26.41,Default,Panda,0,0,0,,Satoru's intuition was right?
 Dialogue: 0,1:06:26.41,1:06:27.83,Default,Panda,0,0,0,,I'll break through it!
 Dialogue: 0,1:06:27.83,1:06:30.63,Default,Panda,0,0,0,,Then we'll take the shortest route!
 Dialogue: 0,1:06:30.96,1:06:31.99,Default,Toge,0,0,0,,Pollack roe!
 Dialogue: 0,1:06:31.99,1:06:33.54,Default,Geto,0,0,0,,Oh?
-Dialogue: 0,1:06:34.92,1:06:37.88,Default,Geto,0,0,0,,Someone broke through the Veil.
+Dialogue: 0,1:06:34.92,1:06:37.88,Default,Geto,0,0,0,,Someone broke through the Veil. {Looks like...}
 Dialogue: 0,1:06:38.65,1:06:42.18,Default,Geto,0,0,0,,Nothing ever goes quite as planned.
-Dialogue: 0,1:06:42.64,1:06:45.68,Default,Geto,0,0,0,,It should take them about five minutes to here.
+Dialogue: 0,1:06:42.64,1:06:45.68,Default,Geto,0,0,0,,It should take them about five minutes to get here.
 Dialogue: 0,1:06:46.14,1:06:49.78,Default,Geto,0,0,0,,Should I ignore them or should I deal with them?
 Dialogue: 0,1:06:51.69,1:06:53.61,Default,Geto,0,0,0,,Tough choice.
-Dialogue: 0,1:06:58.69,1:07:02.20,Italics,Geto,0,0,0,,{\i1}They broke through the walls to take the shortest route?
-Dialogue: 0,1:07:02.99,1:07:04.20,Default,Geto,0,0,0,,Not bad. {Impressive. for the meme.}
+Dialogue: 0,1:06:58.69,1:07:02.20,Italics,Geto,0,0,0,,{\i1}Did they break through the walls to take the shortest route?
+Dialogue: 0,1:07:02.99,1:07:04.20,Default,Geto,0,0,0,,Not bad. {Impressive. for the meme.} {!}
 Dialogue: 0,1:07:07.87,1:07:08.70,Italics,Panda,0,0,0,,{\i1}Maki!
 Dialogue: 0,1:07:10.21,1:07:11.30,Default,Geto,0,0,0,,Pay attention.
 Dialogue: 0,1:07:13.50,1:07:16.13,Italics,Panda,0,0,0,,{\i1}He's good at close combat too?
 Dialogue: 0,1:07:28.81,1:07:29.65,Default,Geto,0,0,0,,Oh?
 Dialogue: 0,1:07:42.03,1:07:43.78,Default,Geto,0,0,0,,How predictable.
-Dialogue: 0,1:07:44.49,1:07:46.03,Default,Panda,0,0,0,,{\i1}Because it was a feint.
+Dialogue: 0,1:07:44.49,1:07:46.03,Default,Panda,0,0,0,,{\i1}Because it was a feint. {Because I was setting you up.}
 Dialogue: 0,1:07:47.12,1:07:50.17,Default,Panda,0,0,0,,Drumming Beat!
-Dialogue: 0,1:08:09.61,1:08:10.86,Default,Geto,0,0,0,,That was close. {sksksk}
-Dialogue: 0,1:08:11.53,1:08:13.36,Default,Panda,0,0,0,,Same to you.
+Dialogue: 0,1:08:09.61,1:08:10.86,Default,Geto,0,0,0,,Boy, that was a close one. {That was close.}
+Dialogue: 0,1:08:11.53,1:08:13.36,Default,Panda,0,0,0,,Oh, I couldn't agree more. {Same to you.}
 Dialogue: 0,1:08:15.61,1:08:17.40,Default,Toge,0,0,0,,Plummet!
 Dialogue: 0,1:08:24.53,1:08:26.66,Default,Panda,0,0,0,,Toge! You okay?
-Dialogue: 0,1:08:27.16,1:08:28.37,Default,Toge,0,0,0,,{\bord11.345}Caviar.
+Dialogue: 0,1:08:27.16,1:08:28.37,Default,Toge,0,0,0,,{\bord5}Caviar.
 Dialogue: 0,1:08:28.37,1:08:31.17,Default,Panda,0,0,0,,Yeah, Maki comes first.
 Dialogue: 0,1:08:33.63,1:08:35.71,Default,Panda,0,0,0,,Maki, are you okay?
 Dialogue: 0,1:08:35.71,1:08:36.71,Default,Panda,0,0,0,,Maki?
 Dialogue: 0,1:08:36.71,1:08:37.88,Default,Toge,0,0,0,,Mustard leaf.
 Dialogue: 0,1:08:38.96,1:08:41.59,Default,Maki,0,0,0,,N-Not yet...
 Dialogue: 0,1:08:53.11,1:08:54.27,Default,Okkotsu,0,0,0,,Another quake?
-Dialogue: 0,1:08:54.81,1:08:56.77,Default,Okkotsu,0,0,0,,What is going on.
+Dialogue: 0,1:08:54.81,1:08:56.77,Default,Okkotsu,0,0,0,,What is going on?
 Dialogue: 0,1:08:58.95,1:08:59.91,Default,Geto,0,0,0,,Amazing.
 Dialogue: 0,1:09:00.80,1:09:01.99,Default,Geto,0,0,0,,This is wonderful!
-Dialogue: 0,1:09:02.66,1:09:05.53,Default,Geto,0,0,0,,I am incredibly touched right now!
-Dialogue: 0,1:09:06.07,1:09:08.36,Default,Geto,0,0,0,,All of you raced here to save Okkotsu, correct?
+Dialogue: 0,1:09:02.66,1:09:05.53,Default,Geto,0,0,0,,I am incredibly touched right now! {I'm so...}
+Dialogue: 0,1:09:06.07,1:09:08.36,Default,Geto,0,0,0,,You all raced down here to save Okkotsu, correct?
 Dialogue: 0,1:09:08.74,1:09:12.21,Default,Geto,0,0,0,,Sorcerers sacrificing themselves for a fellow sorcerer!
-Dialogue: 0,1:09:12.57,1:09:14.71,Default,Geto,0,0,0,,It inspires affection and admiration!
+Dialogue: 0,1:09:12.57,1:09:14.71,Default,Geto,0,0,0,,Such affection! Such admiration!
 Dialogue: 0,1:09:15.04,1:09:19.37,Default,Geto,0,0,0,,The world I long for is right before my very eyes!
 Dialogue: 0,1:09:26.72,1:09:28.09,Default,Okkotsu,0,0,0,,Maki{**-san}?
 Dialogue: 0,1:09:28.97,1:09:33.81,Default,Geto,0,0,0,,To be honest, I wanted you to live, Okkotsu. {to be a part of it too}
@@ -997,8 +998,8 @@ Dialogue: 0,1:09:40.20,1:09:41.99,Default,Toge,0,0,0,,Yuta...
 Dialogue: 0,1:09:44.08,1:09:45.99,Default,Okkotsu,0,0,0,,Inumaki{**-kun}...
 Dialogue: 0,1:09:46.40,1:09:50.04,Default,Toge,0,0,0,,Run... away...
 Dialogue: 0,1:09:55.79,1:09:57.75,Default,Okkotsu,0,0,0,,Come, Rika!
-Dialogue: 0,1:10:02.84,1:10:04.67,Default,Geto,0,0,0,,I will kill you.
-Dialogue: 0,1:10:04.67,1:10:06.97,Default,Okkotsu,0,0,0,,I'll murder you!
+Dialogue: 0,1:10:02.84,1:10:04.67,Default,Geto,0,0,0,,I'm going to kill you. {I will kill you.}
+Dialogue: 0,1:10:04.67,1:10:06.97,Default,Okkotsu,0,0,0,,I'll murder you! {I'll tear you apart!}
 Dialogue: 0,1:10:20.69,1:10:22.69,Default,Geto,0,0,0,,Let's start with quantity over quality.
 Dialogue: 0,1:10:23.12,1:10:25.69,Default,Geto,0,0,0,,What's your move, Queen of Curses?
 Dialogue: 0,1:10:42.55,1:10:43.42,Default,Okkotsu,0,0,0,,Rika.
@@ -1013,7 +1014,7 @@ Dialogue: 0,1:11:19.23,1:11:21.50,Default,Rika,0,0,0,,I'm sorry, I'm sorry!
 Dialogue: 0,1:11:22.27,1:11:23.84,Default,Rika,0,0,0,,Don't be mad.
 Dialogue: 0,1:11:23.84,1:11:25.00,Default,Okkotsu,0,0,0,,I'm not mad.
 Dialogue: 0,1:11:25.00,1:11:27.21,Default,Rika,0,0,0,,Don't hate me.
-Dialogue: 0,1:11:27.21,1:11:29.00,Default,Okkotsu,0,0,0,,I won't. Don't worry.
+Dialogue: 0,1:11:27.21,1:11:29.00,Default,Okkotsu,0,0,0,,I won't. Don't worry. {I could never hate you.}
 Dialogue: 0,1:11:30.76,1:11:33.01,Default,Okkotsu,0,0,0,,He is our enemy.
 Dialogue: 0,1:11:33.01,1:11:35.76,Default,Rika,0,0,0,,Yuta, do you hate him?
 Dialogue: 0,1:11:35.76,1:11:37.51,Default,Okkotsu,0,0,0,,Yeah, I loathe him.
@@ -1028,21 +1029,21 @@ Dialogue: 0,1:12:06.67,1:12:08.42,Italics,Geto,0,0,0,,{\i1}Snake Eyes and Fangs?
 Dialogue: 0,1:12:08.42,1:12:11.85,Italics,Geto,0,0,0,,{\i1}Those are the cursed seals of the Inumaki clan!
 Dialogue: 0,1:12:21.44,1:12:22.40,Default,Okkotsu,0,0,0,,Die.
 Dialogue: 0,1:12:30.30,1:12:31.53,Default,Geto,0,0,0,,Magnificent!
-Dialogue: 0,1:12:32.29,1:12:35.24,Default,Geto,0,0,0,,Cursed speech is an advanced technique passed down in the Inumaki clan. {should this be italics?}
+Dialogue: 0,1:12:32.29,1:12:35.24,Default,Geto,0,0,0,,Cursed speech is an advanced technique passed down in the Inumaki clan. {should this be italics?} {seems like it}
 Dialogue: 0,1:12:35.52,1:12:40.13,Default,Geto,0,0,0,,And yet this young man pulled it off with less than a year of jujutsu training!
-Dialogue: 0,1:12:40.13,1:12:42.38,Default,Okkotsu,0,0,0,,It's so complicated.
+Dialogue: 0,1:12:40.13,1:12:42.38,Default,Okkotsu,0,0,0,,That really is complicated. {It's so complicated.}
 Dialogue: 0,1:12:42.38,1:12:45.38,Default,Okkotsu,0,0,0,,The scattering of cursed energy makes it hard to aim.
 Dialogue: 0,1:12:45.38,1:12:47.63,Default,Okkotsu,0,0,0,,Inumaki{**-kun} is amazing.
-Dialogue: 0,1:12:48.21,1:12:52.22,Default,Geto,0,0,0,,Orimoto Rika is an ever-evolving mystery. {@TLC: what the actual fuck?} {more like she's an ever evolving mystery}
+Dialogue: 0,1:12:48.21,1:12:52.22,Default,Geto,0,0,0,,Orimoto Rika is an ever-evolving mystery. {tlc: what the actual fuck?} {something like she's an ever evolving mystery}
 Dialogue: 0,1:12:52.22,1:12:54.64,Default,Geto,0,0,0,,A spirit of endless cursed energy.
 Dialogue: 0,1:12:54.64,1:12:55.59,Default,Okkotsu,0,0,0,,Yeah...
 Dialogue: 0,1:12:56.05,1:12:57.97,Default,Okkotsu,0,0,0,,My friends are amazing.
 Dialogue: 0,1:12:58.34,1:13:02.02,Default,Okkotsu,0,0,0,,And you... you dare...
 Dialogue: 0,1:13:02.02,1:13:04.27,Default,Geto,0,0,0,,I want her even more.
-Dialogue: 0,1:13:05.94,1:13:08.02,Default,Okkotsu,0,0,0,,I'll beat you to a pulp!
-Dialogue: 0,1:13:38.34,1:13:41.35,Default,Ino,0,0,0,,Why'd {*}Mr. Nanami{*Nanami-san} had to go to Kyoto?
+Dialogue: 0,1:13:05.94,1:13:08.02,Default,Okkotsu,0,0,0,,I'll beat you to a pulp! {ah ffs not this line, not AGAIN}
+Dialogue: 0,1:13:38.34,1:13:41.35,Default,Ino,0,0,0,,Why'd {*}Mr. Nanami{*Nanami-san} have to go to Kyoto? {did}
 Dialogue: 0,1:13:41.35,1:13:42.98,Default,Ino,0,0,0,,I wanted him to see me shine!
-Dialogue: 0,1:13:42.98,1:13:44.06,Default,Kusakabe,0,0,0,,Shut yer face!
+Dialogue: 0,1:13:42.98,1:13:44.06,Default,Kusakabe,0,0,0,,Shut yer face! {Will ya}
 Dialogue: 0,1:13:44.64,1:13:46.89,Default,Kusakabe,0,0,0,,Quit griping and start fighting!
 Dialogue: 0,1:13:47.27,1:13:48.69,Default,Kusakabe,0,0,0,,There's more of 'em coming!
 Dialogue: 0,1:13:51.15,1:13:53.32,Default,Ino,0,0,0,,Man, such a drag.
@@ -1058,62 +1059,62 @@ Dialogue: 0,1:14:39.93,1:14:41.33,Default,Nanako,0,0,0,,Cringe!
 Dialogue: 0,1:14:41.33,1:14:43.79,Default,Nanako,0,0,0,,Mimiko, isn't that guy, like, totally annoying?
 Dialogue: 0,1:14:43.79,1:14:45.83,Default,Mimiko,0,0,0,,Shall we hang him, Nanako?
 Dialogue: 0,1:14:46.22,1:14:48.83,Default,Nanako,0,0,0,,You people have no idea, do you?
-Dialogue: 0,1:14:49.36,1:14:55.84,Default,Nanako,0,0,0,,Just how sorcerers are treated \Nout in the damn sticks that aren't even on maps.
+Dialogue: 0,1:14:49.36,1:14:55.84,Default,Nanako,0,0,0,,You don't know how sorcerers are treated \Nout in the damn sticks that aren't even on maps.
 Dialogue: 0,1:14:56.55,1:15:01.14,Default,Nanako,0,0,0,,Right and wrong? Keep that shit to yourselves.
-Dialogue: 0,1:15:02.64,1:15:08.35,Default,Nanako,0,0,0,,If {*}Master Geto{*Geto-sama} says black is white, then that is that. {@TLC: uhhhhh?}
+Dialogue: 0,1:15:02.64,1:15:08.35,Default,Nanako,0,0,0,,If {*}Master Geto{*Geto-sama} says black is white, then that is that. {tlc: uhhhhh?}
 Dialogue: 0,1:15:11.43,1:15:16.19,Default,Nanako,0,0,0,,We believe in the world he envisions.
-Dialogue: 0,1:15:17.65,1:15:20.79,Default,Nanako,0,0,0,,Anyone who gets in his way will hang!
-Dialogue: 0,1:15:21.62,1:15:22.45,Default,Nanako,0,0,0,,Huh?!
+Dialogue: 0,1:15:17.65,1:15:20.79,Default,Nanako,0,0,0,,Anyone who gets in his way...\N...will hang!
+Dialogue: 0,1:15:21.62,1:15:22.45,Default,Nanako,0,0,0,,Huh?! {nuke?}
 Dialogue: 0,1:15:25.37,1:15:27.83,Default,Nanako,0,0,0,,Miguel? What are you doing?!
-Dialogue: 0,1:15:27.83,1:15:29.71,Default,Miguel,0,0,0,,Can't you see?
-Dialogue: 0,1:15:29.71,1:15:31.34,Default,Gojo,0,0,0,,You're tough. {tenacious}
+Dialogue: 0,1:15:27.83,1:15:29.71,Default,Miguel,0,0,0,,Can't you see? {Take a look and figure it out.}
+Dialogue: 0,1:15:29.71,1:15:31.34,Default,Gojo,0,0,0,,You're tough. {a tenacious one.}
 Dialogue: 0,1:15:35.80,1:15:37.17,Italics,Gojo,0,0,0,,{\i1}That rope...
-Dialogue: 0,1:15:37.17,1:15:39.51,Italics,Gojo,0,0,0,,{\i1}It has a strange curse woven into it.
+Dialogue: 0,1:15:37.17,1:15:39.51,Italics,Gojo,0,0,0,,{\i1}It has an unusual curse woven into it.
 Dialogue: 0,1:15:40.10,1:15:42.54,Italics,Gojo,0,0,0,,{\i1}It's disrupting my technique.
 Dialogue: 0,1:15:42.81,1:15:45.56,Italics,Miguel,0,0,0,,{\i1}I barely have half left.
-Dialogue: 0,1:15:45.56,1:15:52.27,Default,Miguel,0,0,0,,How many decades do you think \Nit took my country's sorcerers to weave this? {the tone seems incorrect}
+Dialogue: 0,1:15:45.56,1:15:52.27,Default,Miguel,0,0,0,,How many decades do you think it took \Nmy country's sorcerers to weave this Black Rope? {the tone seems incorrect}
 Dialogue: 0,1:15:52.27,1:15:53.65,Default,Gojo,0,0,0,,Don't care. {+ didn't ask + L + ratio}
-Dialogue: 0,1:15:53.65,1:15:55.77,Default,Gojo,0,0,0,,One second of my time will outmatch it. {@TLC: ???}
+Dialogue: 0,1:15:53.65,1:15:55.77,Default,Gojo,0,0,0,,One second of my time will outmatch it. {tlc: ???}
 Dialogue: 0,1:15:55.77,1:15:57.40,Default,ApeCurse,0,0,0,,{\an8}Dummy!
 Dialogue: 0,1:15:55.77,1:15:57.40,Default,Gojo,0,0,0,,That's all it's worth.
 Dialogue: 0,1:15:58.27,1:15:59.48,Default,Gojo,0,0,0,,Get lost.
 Dialogue: 0,1:16:06.03,1:16:08.31,Italics,Ijichi,0,0,0,,{\i1}Not good! {*}Mr. Gojo{*Gojo-san} has snapped!
 Dialogue: 0,1:16:08.31,1:16:12.34,Italics,Miguel,0,0,0,,{\i1}So this is the Limitless technique Geto mentioned.
-Dialogue: 0,1:16:12.34,1:16:19.34,Italics,Miguel,0,0,0,,{\i1}A precise manipulation of cursed energy at an atomic level\N which allows its user to distort space-time at will.
+Dialogue: 0,1:16:12.34,1:16:19.34,Italics,Miguel,0,0,0,,{\i1}A precise manipulation of cursed energy at an atomic level \Nthat allows its user to distort space and time at will. {split?} {wait, time?}
 Dialogue: 0,1:16:19.80,1:16:23.30,Italics,Miguel,0,0,0,,{\i1}And what makes it all possible is the power of those eyes.
-Dialogue: 0,1:16:23.76,1:16:26.10,Italics,Miguel,0,0,0,,{\i1}Just over twelve more minutes until my quota. {two minutes of anime original content hype}
-Dialogue: 0,1:16:26.10,1:16:28.30,Italics,Miguel,0,0,0,,{\i1}I'll keep running for my life! {@TLC: nigga says he'll run and jumps straight into the fight?} {need jp captions :/}
+Dialogue: 0,1:16:23.76,1:16:26.10,Italics,Miguel,0,0,0,,{\i1}Just over twelve more minutes until my quota is up. {two minutes of anime original content hype}
+Dialogue: 0,1:16:26.10,1:16:28.30,Italics,Miguel,0,0,0,,{\i1}I'll keep fighting for my life! {nigga says he'll run and jumps straight into the fight?} {need jp captions :/} {ah ok its fighting, not running}
 Dialogue: 0,1:17:02.93,1:17:03.89,Default,Miguel,0,0,0,,Wow! {cursed?}
 Dialogue: 0,1:17:36.29,1:17:38.29,Italics,Miguel,0,0,0,,{\i1}That last round was dangerous.
-Dialogue: 0,1:17:38.29,1:17:40.30,Italics,Miguel,0,0,0,,{\i1}I should focus on hit-and-run.
+Dialogue: 0,1:17:38.29,1:17:40.30,Italics,Miguel,0,0,0,,{\i1}I should focus on hit-and-runs. {ptp grind is real}
 Dialogue: 0,1:17:40.30,1:17:43.51,Italics,Miguel,0,0,0,,{\i1}Gotta give everything I got to endure these last ten minutes.
-Dialogue: 0,1:17:43.51,1:17:46.30,Default,Miguel,0,0,0,,If I die, I'm cursing you, Geto!
+Dialogue: 0,1:17:43.51,1:17:46.30,Default,Miguel,0,0,0,,If I die tonight, I'm cursing you, Geto!
 Dialogue: 0,1:17:50.94,1:17:52.94,Default,Nitta,0,0,0,,{*}Miss Ieiri{*Ieiri-san}, please look at this one, too.
 Dialogue: 0,1:17:52.94,1:17:55.10,Default,Shoko,0,0,0,,I will. Set him down over there.
 Dialogue: 0,1:17:55.10,1:17:55.89,Default,Nitta,0,0,0,,Right!
 Dialogue: 0,1:17:55.89,1:17:58.14,Default,Shoko,0,0,0,,What were you all doing?
-Dialogue: 0,1:17:58.14,1:17:59.53,Default,Nitta,0,0,0,,It's all right.
+Dialogue: 0,1:17:58.14,1:17:59.53,Default,Nitta,0,0,0,,It's all right. {join}
 Dialogue: 0,1:17:59.53,1:18:01.80,Default,Nitta,0,0,0,,{*}Miss Ieiri{*Ieiri-san} will fix you up.
 Dialogue: 0,1:18:03.96,1:18:05.45,Default,Nitta,0,0,0,,We're counting on you!
-Dialogue: 0,1:18:06.62,1:18:07.90,Default,Shoko,0,0,0,,{\i1}Sheesh. {sksksk}
-Dialogue: 0,1:18:08.24,1:18:12.41,Italics,Shoko,0,0,0,,{\i1}You really forced a heap of trouble on us, Geto.
+Dialogue: 0,1:18:06.62,1:18:07.90,Default,Shoko,0,0,0,,{\i1}Sheesh.
+Dialogue: 0,1:18:08.24,1:18:12.41,Italics,Shoko,0,0,0,,{\i1}You really dumped a heap of trouble on us, Geto.
 Dialogue: 0,1:18:14.46,1:18:16.89,Default,Geto,0,0,0,,It's the first time you've felt such violent emotions.
 Dialogue: 0,1:18:16.89,1:18:19.34,Default,Geto,0,0,0,,Your body must be coursing with cursed energy.
-Dialogue: 0,1:18:19.97,1:18:23.31,Default,Geto,0,0,0,,Heightening your physical strength as if you were omnipotent. {sk?}
+Dialogue: 0,1:18:19.97,1:18:23.31,Default,Geto,0,0,0,,Heightening your physical strength as if you were omnipotent. {That high... That omnipotence}
 Dialogue: 0,1:18:23.31,1:18:25.67,Default,Geto,0,0,0,,Your senses must be sharpened, too.
-Dialogue: 0,1:18:25.92,1:18:29.26,Default,Geto,0,0,0,,The riffraff are no match for you now.
+Dialogue: 0,1:18:25.92,1:18:29.26,Default,Geto,0,0,0,,The riffraff are no longer a match for you.
 Dialogue: 0,1:18:29.26,1:18:31.14,Default,Geto,0,0,0,,I'll have to crush you myself.
-Dialogue: 0,1:18:32.93,1:18:34.89,Default,Okkotsu,0,0,0,,Follow my lead, Rika. {@TLC: wat he say?}
+Dialogue: 0,1:18:32.93,1:18:34.89,Default,Okkotsu,0,0,0,,Follow my lead, Rika. {tlc: wat he say?}
 Dialogue: 0,1:18:35.27,1:18:38.39,Default,Geto,0,0,0,,Despite standing at the top of the food chain,
-Dialogue: 0,1:18:38.81,1:18:42.90,Default,Geto,0,0,0,,humans decided to make up the existence of higher beings called gods.
+Dialogue: 0,1:18:38.81,1:18:42.90,Default,Geto,0,0,0,,humans decided to make up the existence of higher beings called gods. {and started worshipping them as gods}
 Dialogue: 0,1:18:43.19,1:18:45.40,Default,Geto,0,0,0,,Laughable, isn't it?
 Dialogue: 0,1:18:45.40,1:18:49.79,Default,Geto,0,0,0,,Considering us sorcerers already exist.
-Dialogue: 0,1:19:41.68,1:19:47.30,Default,Geto,0,0,0,,After all, the monkeys just don't want \Nto admit the existence of superior beings.
+Dialogue: 0,1:19:41.68,1:19:47.30,Default,Geto,0,0,0,,In the end, those monkeys just don't want \Nto admit the existence of us superior beings.
 Dialogue: 0,1:19:47.71,1:19:51.68,Default,Okkotsu,0,0,0,,You want to be god? Grow up already!
 Dialogue: 0,1:19:51.97,1:19:55.22,Default,Geto,0,0,0,,You're missing the point, Okkotsu.
 Dialogue: 0,1:20:10.86,1:20:14.92,Default,Geto,0,0,0,,What I long for isn't enlightenment. It's a chosen people.
 Dialogue: 0,1:20:15.39,1:20:20.96,Default,Geto,0,0,0,,The weak bury the strong due to sheer numbers.
-Dialogue: 0,1:20:20.96,1:20:27.63,Default,Geto,0,0,0,,And the audacity of the monkeys who do that makes me so sick I could vomit. {@TLC: this one too}
+Dialogue: 0,1:20:20.96,1:20:27.63,Default,Geto,0,0,0,,And the audacity of the monkeys who do that makes me so sick I could vomit. {tlc: this one too}
 Dialogue: 0,1:20:28.79,1:20:30.60,Default,Rika,0,0,0,,Yuta, Yuta...
 Dialogue: 0,1:20:31.01,1:20:33.60,Default,Okkotsu,0,0,0,,It's all right. I'm getting a hang of it. {used to it?}
 Dialogue: 0,1:20:33.60,1:20:35.72,Default,Geto,0,0,0,,Are we done debating?
@@ -1130,16 +1131,16 @@ Dialogue: 0,1:21:32.07,1:21:36.03,Default,Okkotsu,0,0,0,,But if I want to stay w
 Dialogue: 0,1:21:36.95,1:21:40.83,Default,Okkotsu,0,0,0,,If I want to believe that I'm allowed to live...
 Dialogue: 0,1:21:42.25,1:21:45.54,Default,Okkotsu,0,0,0,,I have no choice but to kill you!
 Dialogue: 0,1:21:46.07,1:21:48.17,Default,Geto,0,0,0,,Kinda selfish, don't you think? {egotistical}
-Dialogue: 0,1:21:48.17,1:21:50.88,Default,Geto,0,0,0,,But it's all for self-affirmation.
-Dialogue: 0,1:21:50.88,1:21:55.55,Default,Geto,0,0,0,,There are few things more important than that in life.
-Dialogue: 0,1:21:56.21,1:21:59.72,Default,Geto,0,0,0,,In which case, I'll also use all I have to kill you.
+Dialogue: 0,1:21:48.17,1:21:50.88,Default,Geto,0,0,0,,Nonetheless, it's all for self-affirmation.
+Dialogue: 0,1:21:50.88,1:21:55.55,Default,Geto,0,0,0,,There's nothing more important in life. {There are few things more important in life.}
+Dialogue: 0,1:21:56.21,1:21:59.72,Default,Geto,0,0,0,,In which case, I'll also use all I have to kill you. {unfortunately tho}
 Dialogue: 0,1:22:00.15,1:22:02.43,Default,Geto,0,0,0,,No compromises on either quantity or quality.
 Dialogue: 0,1:22:03.06,1:22:04.60,Default,Geto,0,0,0,,Did you know?
 Dialogue: 0,1:22:04.60,1:22:07.27,Default,Geto,0,0,0,,There are only four humans \Ncrowned with the title of special grade.
 Dialogue: 0,1:22:07.60,1:22:09.95,Default,Geto,0,0,0,,Among curses, however, there are sixteen.
 Dialogue: 0,1:22:10.49,1:22:12.78,Default,Geto,0,0,0,,This is one of those sixteen.
-Dialogue: 0,1:22:13.07,1:22:18.78,Default,Geto,0,0,0,,Special-grade potential cursed apparition: The incarnation of Tamamo Mae! {figure something out}
-Dialogue: 0,1:22:19.20,1:22:25.29,Default,Geto,0,0,0,,On top of that, I'll combine \Nthe 4,461 curses in my possession into one
+Dialogue: 0,1:22:13.07,1:22:18.78,Default,Geto,0,0,0,,Special-Grade Mythical Vengeful Spirit: Tamamo Mae! {figure something out} {"imaginary" is kinda misleading}
+Dialogue: 0,1:22:19.20,1:22:25.29,Default,Geto,0,0,0,,On top of that, I'll combine the 4,461 curses in my possession into one
 Dialogue: 0,1:22:25.58,1:22:27.29,Default,Geto,0,0,0,,and strike you with it.
 Dialogue: 0,1:22:29.67,1:22:32.63,Default,Geto,0,0,0,,Curse Manipulation Technique Maximum:
 Dialogue: 0,1:22:37.84,1:22:39.52,Default,Geto,0,0,0,,Maelstorm. {__very__ tempted to use "Uzumaki" but these are English subs}
@@ -1149,25 +1150,25 @@ Dialogue: 0,1:24:06.56,1:24:08.86,Default,Miwa,0,0,0,,New Shadow Style: Simple D
 Dialogue: 0,1:24:08.86,1:24:09.82,Default,Miwa,0,0,0,,Quick Draw!
 Dialogue: 0,1:24:18.33,1:24:20.33,Default,Mechamaru,0,0,0,,Don't let your guard down, Miwa!
 Dialogue: 0,1:24:21.45,1:24:22.66,Default,Miwa,0,0,0,,Mechamaru, above you!
-Dialogue: 0,1:24:27.41,1:24:28.91,Default,Mai,0,0,0,,You should take your own advice.
+Dialogue: 0,1:24:27.41,1:24:28.91,Default,Mai,0,0,0,,You should take your own advice. {can remove you should}
 Dialogue: 0,1:24:29.78,1:24:31.94,Default,Kamo,0,0,0,,Everyone, stay alert.
 Dialogue: 0,1:24:33.29,1:24:34.42,Default,Momo,0,0,0,,Kamo{**-kun}.
 Dialogue: 0,1:24:34.67,1:24:37.00,Default,Momo,0,0,0,,Seven cursed spirits at two o'clock.
 Dialogue: 0,1:24:37.00,1:24:39.38,Italics,Kamo,0,0,0,,Roger that. What is Todo's location?
-Dialogue: 0,1:24:40.80,1:24:43.39,Default,Momo,0,0,0,,Oh, I think you'll see him soon.
+Dialogue: 0,1:24:40.80,1:24:43.39,Default,Momo,0,0,0,,Oh, I think you'll see him soon enough.
 Dialogue: 0,1:24:51.36,1:24:53.69,Default,Kamo,0,0,0,,Where have you been all this time, Todo?
 Dialogue: 0,1:24:56.69,1:24:59.19,Default,Kamo,0,0,0,,Wh-What is that absurd amount of cursed energy?
 Dialogue: 0,1:25:01.24,1:25:02.91,Default,Kamo,0,0,0,,That one's dangerous, Todo!
 Dialogue: 0,1:25:02.91,1:25:04.12,Default,Kamo,0,0,0,,Don't rush in on your own!
-Dialogue: 0,1:25:04.12,1:25:05.16,Default,Kamo,0,0,0,,Wait for back—
+Dialogue: 0,1:25:04.12,1:25:05.16,Default,Kamo,0,0,0,,Wait for back— {fix timing here}
 Dialogue: 0,1:25:04.12,1:25:11.17,Default,Todo,0,0,0,,The talk show's Christmas special at eight will be hosting Takada{**-chan}!
 Dialogue: 0,1:25:12.46,1:25:15.83,Default,Todo,0,0,0,,I can't waste any more time here!
 Dialogue: 0,1:25:15.83,1:25:16.63,Default,Kamo,0,0,0,,Todo!
 Dialogue: 0,1:25:16.63,1:25:17.92,Italics,Momo,0,0,0,,Kamo{**-kun}.
 Dialogue: 0,1:25:18.17,1:25:21.93,Default,Momo,0,0,0,,More than ten cursed spirits approaching from six o'clock.
-Dialogue: 0,1:25:22.93,1:25:24.80,Default,Kamo,0,0,0,,Everyone, prepare to intercept them!
+Dialogue: 0,1:25:22.93,1:25:24.80,Default,Kamo,0,0,0,,Everyone, prepare to intercept!
 Dialogue: 0,1:25:26.14,1:25:28.34,Default,Mai,0,0,0,,Jeez, there's no end to them.
-Dialogue: 0,1:25:28.34,1:25:30.15,Default,Mai,0,0,0,,How long is this gonna go on for?
+Dialogue: 0,1:25:28.34,1:25:30.15,Default,Mai,0,0,0,,How long is this gonna go on?
 Dialogue: 0,1:25:33.77,1:25:35.06,Default,Geto,0,0,0,,Okkotsu.
 Dialogue: 0,1:25:35.47,1:25:42.78,Default,Geto,0,0,0,,I'm truly glad I came to kill you\N before you could fully wield Orimoto Rika.
 Dialogue: 0,1:25:50.17,1:25:51.50,Default,Rika,0,0,0,,It's a promise.
@@ -1179,16 +1180,16 @@ Dialogue: 0,1:26:11.06,1:26:12.44,Default,Rika,0,0,0,,Yes?
 Dialogue: 0,1:26:12.77,1:26:14.89,Default,Okkotsu,0,0,0,,Thank you for protecting me all this time.
 Dialogue: 0,1:26:15.62,1:26:17.94,Default,Okkotsu,0,0,0,,Thank you for loving me.
 Dialogue: 0,1:26:18.85,1:26:22.24,Default,Okkotsu,0,0,0,,Could you lend me your power one last time?
-Dialogue: 0,1:26:24.20,1:26:25.90,Default,Okkotsu,0,0,0,,I want to stop him.
+Dialogue: 0,1:26:24.20,1:26:25.90,Default,Okkotsu,0,0,0,,I want to stop him. {have}
 Dialogue: 0,1:26:26.61,1:26:29.58,Default,Okkotsu,0,0,0,,I don't need anything else after that.
-Dialogue: 0,1:26:30.50,1:26:35.91,Default,Okkotsu,0,0,0,,I'll give you my future, my heart, my body, everything.
+Dialogue: 0,1:26:30.50,1:26:35.91,Default,Okkotsu,0,0,0,,I'll give you my future, my heart, my body,{I'll give you} everything.
 Dialogue: 0,1:26:37.12,1:26:40.59,Default,Okkotsu,0,0,0,,From now on, we'll truly be together forever.
 Dialogue: 0,1:26:43.47,1:26:46.22,Default,Okkotsu,0,0,0,,I love you, Rika.
 Dialogue: 0,1:26:47.72,1:26:49.16,Default,Okkotsu,0,0,0,,Let's die together.
 Dialogue: 0,1:26:57.73,1:27:00.74,Default,Rika,0,0,0,,Yuta! Yuta!
-Dialogue: 0,1:27:00.74,1:27:04.24,Default,Rika,0,0,0,,I love, love, love you so much! {so so so so so?}
+Dialogue: 0,1:27:00.74,1:27:04.24,Default,Rika,0,0,0,,I love, love, love you so much! {so so so so so?} {no no no no no}
 Dialogue: 0,1:27:04.76,1:27:08.60,Italics,Geto,0,0,0,,{\i1}Sacrificing himself to surpass the limit on her cursed energy?! {her?}
-Dialogue: 0,1:27:10.25,1:27:13.25,Default,Geto,0,0,0,,So that's how it's gonna be, you womanizer?!
+Dialogue: 0,1:27:10.25,1:27:13.25,Default,Geto,0,0,0,,I never realized you were such a womanizer! {So that's how it's gonna be, you womanizer?!}
 Dialogue: 0,1:27:13.70,1:27:15.33,Default,Okkotsu,0,0,0,,How rude.
 Dialogue: 0,1:27:16.48,1:27:17.71,Default,Okkotsu,0,0,0,,This is pure love.
 Dialogue: 0,1:27:18.79,1:27:21.51,Default,Geto,0,0,0,,Then this is justice!
@@ -1197,9 +1198,9 @@ Dialogue: 0,1:28:11.10,1:28:14.01,Default,Geto,0,0,0,,Absolutely incredible!
 Dialogue: 0,1:28:14.01,1:28:17.10,Default,Geto,0,0,0,,Truly the power to change the world!
 Dialogue: 0,1:28:17.64,1:28:22.61,Default,Geto,0,0,0,,If I had Rika, there would be no need to sneak around gathering curses.
 Dialogue: 0,1:28:23.24,1:28:24.43,Default,Geto,0,0,0,,Next time.
-Dialogue: 0,1:28:25.29,1:28:27.39,Default,Geto,0,0,0,,Next time, she will be mine!
+Dialogue: 0,1:28:25.29,1:28:27.39,Default,Geto,0,0,0,,Next time, she will be mine! {get my hands on her}
 Dialogue: 0,1:28:33.29,1:28:36.96,Default,Geto,0,0,0,,You finally made it, Satoru.
-Dialogue: 0,1:28:38.53,1:28:40.46,Default,Geto,0,0,0,,To think you'd be the one at my end.
+Dialogue: 0,1:28:38.53,1:28:40.46,Default,Geto,0,0,0,,To think you'd be the one here at my end.
 Dialogue: 0,1:28:41.34,1:28:43.63,Default,Geto,0,0,0,,Is my family safe?
 Dialogue: 0,1:28:43.90,1:28:46.54,Default,Gojo,0,0,0,,Every last one of them managed to get away.
 Dialogue: 0,1:28:47.09,1:28:49.64,Default,Gojo,0,0,0,,The ones in Kyoto were also under you, right?
@@ -1233,13 +1234,13 @@ Dialogue: 0,1:30:59.21,1:31:00.02,Default,Okkotsu,0,0,0,,You guys...
 Dialogue: 0,1:31:00.02,1:31:01.02,Default,Okkotsu,0,0,0,,Are you okay, Maki{**-san}?
 Dialogue: 0,1:31:01.02,1:31:02.05,Default,Okkotsu,0,0,0,,And you, Inumaki{**-kun}?
 Dialogue: 0,1:31:02.05,1:31:03.18,Default,Okkotsu,0,0,0,,Wait! Panda{**-kun}, your arm isn't healed!
-Dialogue: 0,1:31:03.64,1:31:05.77,Default,Okkotsu,0,0,0,,Oh, chill out.
+Dialogue: 0,1:31:03.64,1:31:05.77,Default,Okkotsu,0,0,0,,Oh, chill out. {retime}
 Dialogue: 0,1:31:06.18,1:31:09.90,Default,Maki,0,0,0,,We're in better shape than you right now.
 Dialogue: 0,1:31:10.19,1:31:14.15,Default,Panda,0,0,0,,Unlike these two, my arm can be replaced later.
 Dialogue: 0,1:31:14.60,1:31:16.65,Default,Panda,0,0,0,,Thanks for saving us.
 Dialogue: 0,1:31:16.94,1:31:18.15,Default,Toge,0,0,0,,Salmon.
 Dialogue: 0,1:31:19.54,1:31:21.16,Default,Rika,0,0,0,,Yuta.
-Dialogue: 0,1:31:29.08,1:31:32.46,Default,Okkotsu,0,0,0,,I'm sorry, Rika{**-chan}. I've kept you waiting.
+Dialogue: 0,1:31:29.08,1:31:32.46,Default,Okkotsu,0,0,0,,I'm sorry, Rika{**-chan}. I didn't mean to keep you waiting. {I've kept you waiting.}
 Dialogue: 0,1:31:32.46,1:31:34.81,Default,Panda,0,0,0,,What's the matter, Yuta?
 Dialogue: 0,1:31:36.09,1:31:37.51,Default,Okkotsu,0,0,0,,Well, uh...
 Dialogue: 0,1:31:38.10,1:31:43.68,Default,Okkotsu,0,0,0,,In exchange for her power, I kinda p-promised to go with Rika{**-chan}.
@@ -1263,24 +1264,24 @@ Dialogue: 0,1:32:27.14,1:32:29.47,Default,Gojo,0,0,0,,That makes us super-distan
 Dialogue: 0,1:32:29.47,1:32:34.48,Default,Gojo,0,0,0,,{\an8}Yay! Yay! Yay! Yuta, Yay!
 Dialogue: 0,1:32:29.47,1:32:30.27,Default,Maki/Panda,0,0,0,,Suga—
 Dialogue: 0,1:32:30.27,1:32:31.61,Default,Okkotsu,0,0,0,,Uh, who?
-Dialogue: 0,1:32:31.61,1:32:33.69,Default,Maki,0,0,0,,One of Japan's Three Great Apparitions!
+Dialogue: 0,1:32:31.61,1:32:33.69,Default,Maki,0,0,0,,One of Japan's Three Great Vengeful Spirits!
 Dialogue: 0,1:32:33.69,1:32:35.57,Default,Panda,0,0,0,,Dude's a super-big-shot sorcerer!
-Dialogue: 0,1:32:35.57,1:32:36.40,Default,Toge,0,0,0,,Tuna.
+Dialogue: 0,1:32:35.57,1:32:36.40,Default,Toge,0,0,0,,Tuna!
 Dialogue: 0,1:32:36.72,1:32:38.40,Default,Gojo,0,0,0,,You were right, Yuta.
 Dialogue: 0,1:32:38.98,1:32:41.24,Default,Gojo,0,0,0,,Rika didn't place a curse on you.
 Dialogue: 0,1:32:42.18,1:32:44.89,Default,Gojo,0,0,0,,You placed a curse on Rika.
-Dialogue: 0,1:32:48.41,1:32:49.51,Italics,Okkotsu,0,0,0,,Rika{**-chan}...
-Dialogue: 0,1:32:49.92,1:32:52.29,Italics,Okkotsu,0,0,0,,What do I do?! Is she going to die?! I have to help her!
-Dialogue: 0,1:32:52.29,1:32:56.59,Italics,Okkotsu,0,0,0,,Don't die! Don't die! Don't die! Don't die! Don't die!
-Dialogue: 0,1:32:58.84,1:33:00.01,Default,Okkotsu,0,0,0,,Oh right...
+Dialogue: 0,1:32:48.41,1:32:49.51,Italics,Okkotsu,0,0,0,,{\i1}Rika{**-chan}...
+Dialogue: 0,1:32:49.92,1:32:52.29,Italics,Okkotsu,0,0,0,,{\i1}What do I do?! Is she going to die?! I have to save her!
+Dialogue: 0,1:32:52.29,1:32:56.59,Italics,Okkotsu,0,0,0,,{\i1}Don't die! Don't die! Don't die! Don't die! Don't die!
+Dialogue: 0,1:32:58.84,1:33:00.01,Default,Okkotsu,0,0,0,,Oh right... {That's}
 Dialogue: 0,1:33:00.62,1:33:04.51,Default,Okkotsu,0,0,0,,Back then, I rejected Rika{**-chan}'s death.
-Dialogue: 0,1:33:05.28,1:33:08.75,Default,Gojo,0,0,0,,Now the curser has canceled the bond.
-Dialogue: 0,1:33:09.90,1:33:15.44,Default,Gojo,0,0,0,,As long as the cursed doesn't seek any penalty, the curse will be broken. {sksk??}
-Dialogue: 0,1:33:15.77,1:33:19.40,Default,Gojo,0,0,0,,Though, I guess that much was obvious after seeing her like that.
+Dialogue: 0,1:33:05.28,1:33:08.75,Default,Gojo,0,0,0,,Now the curser has canceled the bond. {Now that...,}
+Dialogue: 0,1:33:09.90,1:33:15.44,Default,Gojo,0,0,0,,As long as the cursed doesn't seek retribution against you, the curse will be broken. {sksk??} {if}
+Dialogue: 0,1:33:15.77,1:33:19.40,Default,Gojo,0,0,0,,Though, I guess that much was obvious \Nafter seeing her like that.
 Dialogue: 0,1:33:21.70,1:33:24.45,Default,Okkotsu,0,0,0,,It was all my fault.
 Dialogue: 0,1:33:25.45,1:33:27.70,Default,Okkotsu,0,0,0,,I turned you into a curse.
 Dialogue: 0,1:33:27.70,1:33:30.33,Default,Okkotsu,0,0,0,,I hurt all those people.
-Dialogue: 0,1:33:30.33,1:33:34.29,Default,Okkotsu,0,0,0,,Everyone nearly died because Geto was after me!
+Dialogue: 0,1:33:30.33,1:33:34.29,Default,Okkotsu,0,0,0,,Everyone nearly died because Geto came after me!
 Dialogue: 0,1:33:34.71,1:33:35.75,Default,Okkotsu,0,0,0,,It's all...
 Dialogue: 0,1:33:36.71,1:33:38.89,Default,Okkotsu,0,0,0,,It's all my...
 Dialogue: 0,1:33:42.05,1:33:43.11,Default,Rika,0,0,0,,Yuta.
@@ -1294,31 +1295,31 @@ Dialogue: 0,1:34:13.21,1:34:15.75,Default,Rika,0,0,0,,And don't come over too so
 Dialogue: 0,1:34:16.96,1:34:17.75,Default,Okkotsu,0,0,0,,Okay.
 Dialogue: 0,1:34:18.00,1:34:19.07,Default,Rika,0,0,0,,See you later!
 Dialogue: 0,1:34:56.09,1:35:00.22,Default,Gojo,0,0,0,,It's a bit late, but you weren't \Nat fault for the incident with Geto.
-Dialogue: 0,1:35:00.22,1:35:03.80,Default,Gojo,0,0,0,,He would've come to attack Jujutsu Tech \Nwhether you were there or not.
+Dialogue: 0,1:35:00.22,1:35:03.80,Default,Gojo,0,0,0,,He would've come to attack Jujutsu Tech \Nwhether you were here or not.
 Dialogue: 0,1:35:03.80,1:35:05.22,Default,Okkotsu,0,0,0,,You think so?
-Dialogue: 0,1:35:05.22,1:35:06.76,Default,Gojo,0,0,0,,Also, here. {on and take this}
+Dialogue: 0,1:35:05.22,1:35:06.76,Default,Gojo,0,0,0,,Also, here. {oh and take this} {I believe this is yours.}
 Dialogue: 0,1:35:06.76,1:35:08.30,Default,Okkotsu,0,0,0,,Oh, my student ID.
 Dialogue: 0,1:35:08.30,1:35:10.10,Default,Okkotsu,0,0,0,,You found it for me, {*}Sir{*Sensei}?
 Dialogue: 0,1:35:11.52,1:35:14.60,Default,Gojo,0,0,0,,No, not me.
 Dialogue: 0,1:35:15.14,1:35:16.60,Default,Gojo,0,0,0,,My best friend did.
 Dialogue: 0,1:35:17.64,1:35:19.61,Default,Gojo,0,0,0,,The only one I had.
 Dialogue: 0,1:35:21.07,1:35:22.05,Default,Maki,0,0,0,,Come on, Yuta!
-Dialogue: 0,1:35:22.05,1:35:24.61,Default,Maki,0,0,0,,How are you gonna keep us waiting!
+Dialogue: 0,1:35:22.05,1:35:24.61,Default,Maki,0,0,0,,How long are you gonna keep us waiting?
 Dialogue: 0,1:35:25.28,1:35:26.61,Default,Maki,0,0,0,,Let's go!
 Dialogue: 0,1:35:33.45,1:35:34.20,Default,Okkotsu,0,0,0,,Yeah!
 Dialogue: 0,1:44:02.42,1:44:03.92,Default,Okkotsu,0,0,0,,This is yum.
 Dialogue: 0,1:44:03.92,1:44:05.67,Default,Miguel,0,0,0,,Ain't it?
-Dialogue: 0,1:44:06.03,1:44:08.46,Default,Miguel,0,0,0,,I used a spice called Royco.
+Dialogue: 0,1:44:06.03,1:44:08.46,Default,Miguel,0,0,0,,I used this spice called Royco.
 Dialogue: 0,1:44:08.46,1:44:11.52,Default,Miguel,0,0,0,,Gives it a nice flavor.
-Dialogue: 0,1:44:13.30,1:44:18.43,Default,Miguel,0,0,0,,Royco is the magic powder that makes everything taste Kenyan.
+Dialogue: 0,1:44:13.30,1:44:18.43,Default,Miguel,0,0,0,,Royco is the magic powder \Nthat makes everything taste Kenyan.
 Dialogue: 0,1:44:18.43,1:44:21.53,Default,Miguel,0,0,0,,More importantly, they really went home, right? {went home? took care of them?}
 Dialogue: 0,1:44:22.51,1:44:23.44,Default,Okkotsu,0,0,0,,Yeah.
-Dialogue: 0,1:44:23.83,1:44:25.53,Default,Miguel,0,0,0,,Good, then.
-Dialogue: 0,1:44:25.94,1:44:29.15,Default,Okkotsu,0,0,0,,This is really good. Kinda like nikujaga.
+Dialogue: 0,1:44:23.83,1:44:25.53,Default,Miguel,0,0,0,,For that, I'm happy. {Good, then.}
+Dialogue: 0,1:44:25.94,1:44:29.15,Default,Okkotsu,0,0,0,,This really is good. Reminds me of nikujaga.
 Dialogue: 0,1:44:29.15,1:44:30.20,Default,Miguel,0,0,0,,What was that? {you fucking weeb?}
-Dialogue: 0,1:44:30.56,1:44:34.08,Default,Miguel,0,0,0,,It's called beef stew, my nigga! {i'll edit this out later. maybe.}
+Dialogue: 0,1:44:30.56,1:44:34.08,Default,Miguel,0,0,0,,Call it beef stew, my man! {i'll edit this out later. maybe.} {bruh}
 Dialogue: 0,1:44:36.78,1:44:38.20,Default,Okkotsu,0,0,0,,Something wrong?
 Dialogue: 0,1:44:38.75,1:44:41.71,Default,Miguel,0,0,0,,What are you doing here?
 Dialogue: 0,1:44:42.59,1:44:43.71,Default,Okkotsu,0,0,0,,Oh?
 Dialogue: 0,1:44:44.25,1:44:45.88,Default,Okkotsu,0,0,0,,{*}Sir{*Sensei}?
-Dialogue: 0,1:44:45.88,1:44:48.71,Default,Gojo,0,0,0,,Hey. Long time no see.
+Dialogue: 0,1:44:45.88,1:44:48.71,Default,Gojo,0,0,0,,Hey. Been a while. {mirrors the first line}
