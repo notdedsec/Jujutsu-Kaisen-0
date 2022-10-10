@@ -18,8 +18,12 @@ subs {
             incrementLayer(10)
         }
         from(getList("typesets"))
+        from(getList("opening"))
         from(getList("insert"))
         from(getList("ending"))
+
+        includeExtraData(false)
+        includeProjectGarbage(false)
     }
 
     swap {
@@ -30,16 +34,21 @@ subs {
         title(get("title"))
 
         from(get("premux")) {
-            tracks {
+            video {
+                name("BD 1080p HEVC [dedsec]")
                 lang("jpn")
+                default(true)
+            }
 
-                if(track.type == TrackType.VIDEO) {
-                    name("BD 1080p HEVC [dedsec]")
-                }
+            audio(0) {
+                name("Japanese 5.1 AAC")
+                lang("jpn")
+                default(true)
+            }
 
-                if(track.type == TrackType.AUDIO) {
-                    name("Japanese 2.0 AAC")
-                }
+            audio(1) {
+                name("Japanese 2.0 AAC")
+                lang("jpn")
             }
 
             attachments {
