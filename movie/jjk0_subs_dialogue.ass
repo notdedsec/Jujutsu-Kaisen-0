@@ -1018,7 +1018,7 @@ Dialogue: 0,1:11:27.30,1:11:29.01,Default,Okkotsu,0,0,0,,I could never hate you.
 Dialogue: 0,1:11:30.85,1:11:33.01,Default,Okkotsu,0,0,0,,He is our enemy.
 Dialogue: 0,1:11:33.27,1:11:35.90,Cursed,Rika,0,0,0,,Yuta, do you hate him?
 Dialogue: 0,1:11:35.90,1:11:37.52,Default,Okkotsu,0,0,0,,Yeah, I loathe him.
-Dialogue: 0,1:11:38.61,1:11:41.53,Cursed,Rika,0,0,0,,Then I hate him too!
+Dialogue: 0,1:11:38.61,1:11:41.53,Cursed,Rika,0,0,0,,Then I hate him, too!
 Dialogue: 0,1:11:41.53,1:11:42.53,Default,Geto,0,0,0,,Welcome back.
 Dialogue: 0,1:11:44.44,1:11:46.66,Default,Okkotsu,0,0,0,,Why did you stop attacking?
 Dialogue: 0,1:11:46.66,1:11:51.20,Default,Geto,0,0,0,,Healing requires an advanced reverse cursed technique.
@@ -1047,7 +1047,7 @@ Dialogue: 0,1:13:44.52,1:13:46.90,Default,Kusakabe,0,0,0,,Quit griping and start
 Dialogue: 0,1:13:47.40,1:13:48.49,Default,Kusakabe,0,0,0,,There's more of 'em coming!
 Dialogue: 0,1:13:51.24,1:13:53.33,Default,Ino,0,0,0,,Man, such a drag.
 Dialogue: 0,1:14:14.51,1:14:16.09,Default,Mei Mei,0,0,0,,And that's fifty.
-Dialogue: 0,1:14:16.09,1:14:23.73,Default,Mei Mei,0,0,0,,That clears the minimum requirements for the reward.\N Might as well work a bit more for the bonus.{"Incentive"? how on earth does that work in a sentence here hm. Anyway, this sentence feels so robotic, is that how she speaks? Preferably this is made more human: "I've cleared my (minimum) quota."?}{incentive = reward. ignore the wasei eigo crap. the tone feels right because to her it's like checking things off of a list}
+Dialogue: 0,1:14:16.09,1:14:23.73,Default,Mei Mei,0,0,0,,That clears the minimum requirement for the reward.\N Might as well work a bit more for that bonus.{"Incentive"? how on earth does that work in a sentence here hm. Anyway, this sentence feels so robotic, is that how she speaks? Preferably this is made more human: "I've cleared my (minimum) quota."?}{incentive = reward. ignore the wasei eigo crap. the tone feels right because to her it's like checking things off of a list}
 Dialogue: 0,1:14:27.78,1:14:29.57,Default,Ijichi,0,0,0,,How old are you two?
 Dialogue: 0,1:14:30.03,1:14:31.70,Default,Nanako,0,0,0,,Fifteen!
 Dialogue: 0,1:14:31.70,1:14:33.99,Default,Ijichi,0,0,0,,You're still just children.
@@ -1133,7 +1133,7 @@ Dialogue: 0,1:21:48.26,1:21:51.01,Default,Geto,0,0,0,,Nonetheless, it's all for 
 Dialogue: 0,1:21:51.01,1:21:55.81,Default,Geto,0,0,0,,There's nothing more important in life. {There are few things more important in life.}
 Dialogue: 0,1:21:56.27,1:22:00.10,Default,Geto,0,0,0,,In which case, I'll also use all I have{; or comma} to kill you. {unfortunately tho}
 Dialogue: 0,1:22:00.10,1:22:02.81,Default,Geto,0,0,0,,No compromises on {n}either quantity {n}or quality.{seems correct as-is. Brain feels fucky tho.}
-Dialogue: 0,1:22:02.81,1:22:07.28,Default,Geto,0,0,0,,You know, there are only four humans crowned with the title of special grade.{If it's a title, then why is it not "Special-Grade" you literally have it 3 lines later}{Inconsistent hyphenation in lines 213, 563, and 906. Also inconsistent capitalization throughout the movie. I think it better be left un-capitalized when that could divert attention from important stuff (line 283, 322, and 798) but definitely capitalize when it is the point of the line (213, 428, 563, 597, 729, 778?, 906, 1092, and 1095)}{m8 check the style guide again, it's perfectly fine. grades get hyphenated when used as an adjective and capitalized when used in a name}
+Dialogue: 0,1:22:02.81,1:22:07.28,Default,Geto,0,0,0,,Did you know? There are only four humans crowned with the title of special grade.{If it's a title, then why is it not "Special-Grade" you literally have it 3 lines later}{Inconsistent hyphenation in lines 213, 563, and 906. Also inconsistent capitalization throughout the movie. I think it better be left un-capitalized when that could divert attention from important stuff (line 283, 322, and 798) but definitely capitalize when it is the point of the line (213, 428, 563, 597, 729, 778?, 906, 1092, and 1095)}{m8 check the style guide again, it's perfectly fine. grades get hyphenated when used as an adjective and capitalized when used in a name}
 Dialogue: 0,1:22:07.28,1:22:10.03,Default,Geto,0,0,0,,Among curses, however, there are sixteen.
 Dialogue: 0,1:22:10.53,1:22:12.78,Default,Geto,0,0,0,,This is one of those sixteen.
 Dialogue: 0,1:22:13.24,1:22:18.79,Default,Geto,0,0,0,,Special-Grade Mythical Spirit: Tamamo Mae. {figure something out} {"imaginary" is kinda misleading}
@@ -1212,7 +1212,7 @@ Dialogue: 0,1:29:05.07,1:29:10.45,Default,Gojo,0,0,0,,Trusted that a man as prin
 Dialogue: 0,1:29:11.33,1:29:13.66,Default,Geto,0,0,0,,Trust, you say?
 Dialogue: 0,1:29:17.37,1:29:22.84,Default,Geto,0,0,0,,{\fade(100,100)}I didn't know you still had something like that left for me. {200% more gay}
 Dialogue: 0,1:29:25.17,1:29:27.33,Default,Geto,0,0,0,,Give this back to him, will you?
-Dialogue: 0,1:29:29.43,1:29:32.31,Default,Gojo,0,0,0,,Was the elementary school your doing, too?
+Dialogue: 0,1:29:29.43,1:29:32.31,Default,Gojo,0,0,0,,The elementary school was your doing, too?
 Dialogue: 0,1:29:32.72,1:29:34.09,Default,Geto,0,0,0,,You guessed it.
 Dialogue: 0,1:29:34.09,1:29:35.81,Default,Gojo,0,0,0,,I can't believe you.
 Dialogue: 0,1:29:37.39,1:29:40.10,Default,Gojo,0,0,0,,Do you have any last words?
