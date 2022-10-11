@@ -288,7 +288,7 @@ Dialogue: 0,0:18:57.44,0:18:59.82,Default,Maki,0,0,0,,Both of them could die at 
 Dialogue: 0,0:19:00.99,0:19:02.62,Default,Okkotsu,0,0,0,,No way...
 Dialogue: 0,0:19:03.21,0:19:04.11,Default,Okkotsu,0,0,0,,What do we do?!
 Dialogue: 0,0:19:04.11,0:19:05.75,Default,Maki,0,0,0,,There's nothing we {\i1}can{\i0} do!
-Dialogue: 0,0:19:05.75,0:19:07.88,Default,Maki,0,0,0,,We have no choice but to wait for help.
+Dialogue: 0,0:19:05.75,0:19:07.88,Default,Maki,0,0,0,,Our only option is to wait for help.
 Dialogue: 0,0:19:08.29,0:19:12.88,Default,Maki,0,0,0,,Not everyone has resistance to curses like you do.{almost implies he's a curse}
 Dialogue: 0,0:19:14.34,0:19:15.50,Default,Okkotsu,0,0,0,,{*}Miss Zenin{*Zenin-san}?
 Dialogue: 0,0:19:17.89,0:19:19.22,Default,Okkotsu,0,0,0,,{*}Miss Zenin{*Zenin-san}?!
@@ -560,7 +560,7 @@ Dialogue: 0,0:39:14.54,0:39:16.33,Default,Okkotsu,0,0,0,,I'll contact {*}Mr. Iji
 Dialogue: 0,0:39:17.75,0:39:20.75,Default,Okkotsu,0,0,0,,No signal? How come?
 Dialogue: 0,0:39:20.75,0:39:22.01,Default,Toge,0,0,0,,Bonito flakes.
 Dialogue: 0,0:39:23.88,0:39:25.55,Default,Okkotsu,0,0,0,,Because of the Veil?
-Dialogue: 0,0:39:27.68,0:39:31.56,Default,Okkotsu,0,0,0,,Since the Veil isn't lifting, \Nwe have no choice but to exorcise it, right?
+Dialogue: 0,0:39:27.68,0:39:31.56,Default,Okkotsu,0,0,0,,Since the Veil isn't lifting, \Nour only option is to exorcise it, right?
 Dialogue: 0,0:39:36.34,0:39:37.52,Default,Okkotsu,0,0,0,,Wait, Inumaki{**-kun}!
 Dialogue: 0,0:39:38.23,0:39:40.36,Default,Okkotsu,0,0,0,,Should you be moving around already?
 Dialogue: 0,0:39:41.79,0:39:43.22,Default,Toge,0,0,0,,{\bord5}Kelp.
@@ -639,7 +639,7 @@ Dialogue: 0,0:45:52.91,0:45:54.48,Default,Ijichi,0,0,0,,You mean...{add stammer?
 Dialogue: 0,0:45:55.40,0:45:57.48,Default,Ijichi,0,0,0,,Do you know who is behind this?{Hmm, should this be in past-tense? "You knew who was behind this?" (knew all along/already know)}{I think I mainly want this sentence to work in step with the previous line.}
 Dialogue: 0,0:46:13.25,0:46:15.00,Default,Gojo,0,0,0,,Geto Suguru.
 Dialogue: 0,0:46:16.50,0:46:19.01,Default,Gojo,0,0,0,,He's one of the four special-grade sorcerers.
-Dialogue: 0,0:46:19.01,0:46:26.01,Default,Gojo,0,0,0,,The one who was banished from Jujutsu Tech \Nfor cursing over a hundred normal people to death.
+Dialogue: 0,0:46:19.55,0:46:26.01,Default,Gojo,0,0,0,,The one who was banished from Jujutsu Tech \Nfor cursing over a hundred normal people to death.
 Dialogue: 0,0:46:26.01,0:46:28.56,Default,Gojo,0,0,0,,The worst curse user around. {not _ever_ since that would be kamo noritoshi}
 Dialogue: 0,0:46:41.82,0:46:44.32,Default,Daughter,0,0,0,,Really, I'll be fine. Let's go home now.
 Dialogue: 0,0:46:44.32,0:46:47.95,Default,Mother,0,0,0,,It's all right. Just wait a little longer.
@@ -1081,7 +1081,7 @@ Dialogue: 0,1:16:08.31,1:16:12.38,Default,Miguel,0,0,0,,{\i1}So this is the Limi
 Dialogue: 0,1:16:12.38,1:16:16.89,Default,Miguel,0,0,0,,{\i1}A precise manipulation \Nof cursed energy at an atomic level
 Dialogue: 0,1:16:16.89,1:16:19.81,Default,Miguel,0,0,0,,{\i1}that allows its user to distort space and time at will. {split?} {wait, time?}
 Dialogue: 0,1:16:19.80,1:16:23.31,Default,Miguel,0,0,0,,{\i1}And what makes it all possible is the power of those eyes.
-Dialogue: 0,1:16:23.31,1:16:26.06,Default,Miguel,0,0,0,,{\i1}Just over twelve more minutes until my quota is up. {two minutes of anime original content hype}
+Dialogue: 0,1:16:23.77,1:16:26.06,Default,Miguel,0,0,0,,{\i1}Just over twelve more minutes until my quota is up. {two minutes of anime original content hype}
 Dialogue: 0,1:16:26.06,1:16:28.06,Default,Miguel,0,0,0,,{\i1}I'll keep fighting for my life! {nigga says he'll run and jumps straight into the fight?} {need jp captions :/} {ah ok its fighting, not running}
 Dialogue: 0,1:17:02.93,1:17:03.47,Default,Miguel,0,0,0,,Whoa! {cursed?}
 Dialogue: 0,1:17:36.29,1:17:38.34,Default,Miguel,0,0,0,,{\i1}That last round was dangerous.
@@ -1272,7 +1272,7 @@ Dialogue: 0,1:32:50.04,1:32:52.25,Default,Okkotsu,0,0,0,,{\i1}What do I do?! Is 
 Dialogue: 0,1:32:52.25,1:32:56.55,Default,Okkotsu,0,0,0,,{\i1}Don't die! Don't die! Don't die! Don't die! Don't die!
 Dialogue: 0,1:32:58.93,1:33:00.55,Default,Okkotsu,0,0,0,,That's right...
 Dialogue: 0,1:33:00.55,1:33:04.93,Default,Okkotsu,0,0,0,,Back then, I rejected Rika{**-chan}'s death.
-Dialogue: 0,1:33:04.93,1:33:08.73,Default,Gojo,0,0,0,,Now the curser has canceled the bond.
+Dialogue: 0,1:33:05.31,1:33:08.73,Default,Gojo,0,0,0,,Now the curser has canceled the bond.
 Dialogue: 0,1:33:09.98,1:33:15.44,Default,Gojo,0,0,0,,As long as the cursed doesn't seek revenge, \Nthe curse will be broken.
 Dialogue: 0,1:33:15.44,1:33:19.57,Default,Gojo,0,0,0,,Though, I guess that much \Nwas obvious after seeing her like that.
 Dialogue: 0,1:33:21.70,1:33:24.87,Default,Okkotsu,0,0,0,,It was all my fault.
