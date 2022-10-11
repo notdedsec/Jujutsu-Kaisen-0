@@ -34,6 +34,8 @@ subs {
         title(get("title"))
 
         from(get("premux")) {
+            includeChapters(false)
+
             video {
                 name("BD 1080p HEVC [dedsec]")
                 lang("jpn")
