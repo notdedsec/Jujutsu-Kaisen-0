@@ -907,8 +907,7 @@ Dialogue: 0,1:04:07.62,1:04:11.29,Default,Gojo,0,0,0,,There's one guy who looks 
 Dialogue: 0,1:04:11.91,1:04:15.28,Default,Miguel,0,0,0,,I see. It's that guy with the bandages.
 Dialogue: 0,1:04:15.28,1:04:18.75,Default,Suda,0,0,0,,Yes. We'll take on the rest.
 Dialogue: 0,1:04:18.75,1:04:20.29,Default,Suda,0,0,0,,I've said this before but{\fscx180}—{\fscx}
-Dialogue: 0,1:04:20.29,1:04:21.63,Default,Miguel,0,0,0,,Yea, I know.
-Dialogue: 0,1:04:21.63,1:04:23.79,Default,Miguel,0,0,0,,We're only stalling them, right?
+Dialogue: 0,1:04:20.29,1:04:23.79,Default,Miguel,0,0,0,,Yea, I know. We're only stalling them, right?
 Dialogue: 0,1:04:23.79,1:04:28.18,Default,Miguel,0,0,0,,Let's take it slow and have some fun \Nuntil Geto finishes his job.
 Dialogue: 0,1:04:29.01,1:04:30.68,Default,Geto,0,0,0,,You're here?
 Dialogue: 0,1:04:30.68,1:04:32.39,Default,Maki,0,0,0,,That a problem?
