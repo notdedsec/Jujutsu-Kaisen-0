@@ -378,7 +378,8 @@ Dialogue: 0,0:27:00.60,0:27:04.92,Default,Gojo,0,0,0,,if it comes down to that, 
 Dialogue: 0,0:27:09.19,0:27:12.10,Default,Gojo,0,0,0,,Christ, I can't stand these arrogant old-timers.
 Dialogue: 0,0:27:13.15,0:27:15.23,Default,Gojo,0,0,0,,I don't ever wanna turn out like them!
 Dialogue: 0,0:27:15.23,0:27:17.74,Default,Gojo,0,0,0,,I gotta be careful.
-Dialogue: 0,0:27:18.07,0:27:24.58,Default,Gojo,0,0,0,,Besides, no one's allowed \Nto take youth away from the young.
+Dialogue: 0,0:27:18.07,0:27:19.77,Default,Gojo,0,0,0,,They just don't get it.
+Dialogue: 0,0:27:19.77,0:27:24.58,Default,Gojo,0,0,0,,No one's allowed to take youth away from the young.
 Dialogue: 0,0:27:31.00,0:27:33.76,Default,Panda,0,0,0,,Last lap for Maki and Toge!
 Dialogue: 0,0:27:36.93,0:27:38.66,Default,Gojo,0,0,0,,Absolutely no one.
 Dialogue: 0,0:27:48.98,0:27:50.65,Default,Gojo,0,0,0,,Go ahead. After you.
@@ -1176,7 +1177,7 @@ Dialogue: 0,1:26:10.14,1:26:11.15,Default,Okkotsu,0,0,0,,Rika.
 Dialogue: 0,1:26:11.15,1:26:12.44,Cursed,Rika,0,0,0,,Yes?
 Dialogue: 0,1:26:12.44,1:26:14.97,Default,Okkotsu,0,0,0,,Thank you for protecting me all this time.
 Dialogue: 0,1:26:15.62,1:26:18.40,Default,Okkotsu,0,0,0,,Thank you for loving me.
-Dialogue: 0,1:26:18.95,1:26:22.37,Default,Okkotsu,0,0,0,,Could you lend me your power one last time? {tfw ED lyrics}
+Dialogue: 0,1:26:18.95,1:26:22.37,Default,Okkotsu,0,0,0,,Could you lend me your strength one last time? {tfw ED lyrics}
 Dialogue: 0,1:26:24.28,1:26:25.98,Default,Okkotsu,0,0,0,,I have to stop him.
 Dialogue: 0,1:26:26.66,1:26:29.66,Default,Okkotsu,0,0,0,,After that, I don't need anything more.
 Dialogue: 0,1:26:30.50,1:26:34.29,Default,Okkotsu,0,0,0,,I'll give you my future, my heart, my body.
