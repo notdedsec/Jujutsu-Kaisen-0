@@ -83,6 +83,7 @@ subs {
         }
 
         skipUnusedFonts(true)
+        forceCRC("00000000")
         out(get("muxfile"))
     }
 
