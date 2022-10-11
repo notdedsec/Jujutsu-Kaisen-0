@@ -51,7 +51,7 @@ Dialogue: 0,0:01:22.97,0:01:24.26,Default,Okkotsu,0,0,0,,I'm sorry.
 Dialogue: 0,0:01:25.97,0:01:28.82,Default,Okkotsu,0,0,0,,I'm sorry. I'm sorry.
 Dialogue: 0,0:01:28.82,0:01:31.15,Default,Okkotsu,0,0,0,,I'm sorry. I'm sorry.
 Dialogue: 0,0:01:32.36,0:01:34.16,Default,Okkotsu,0,0,0,,I'm sorry. I'm sorry.
-Dialogue: 0,0:01:53.22,0:01:56.64,Default,Gojo,0,0,0,,A complete cover up and a secret execution?
+Dialogue: 0,0:01:53.22,0:01:56.64,Default,Gojo,0,0,0,,A complete cover-up and a secret execution?
 Dialogue: 0,0:01:56.64,0:01:57.97,Default,Gojo,0,0,0,,That's ridiculous.
 Dialogue: 0,0:01:58.77,0:02:01.09,Default,Director A,0,0,0,,The boy himself has consented to it.
 Dialogue: 0,0:02:02.19,0:02:05.77,Default,Gojo,0,0,0,,He's underage. Just sixteen years old.
@@ -460,10 +460,10 @@ Dialogue: 0,0:32:52.70,0:32:56.33,Default,Gojo,0,0,0,,Toge, you've been requeste
 Dialogue: 0,0:32:56.33,0:32:58.12,Default,Gojo,0,0,0,,Go exorcise it quickly.
 Dialogue: 0,0:32:58.12,0:32:59.03,Default,Toge,0,0,0,,Salmon.
 Dialogue: 0,0:32:59.37,0:33:00.67,Default,Okkotsu,0,0,0,,Requested?{same as 3 lines ago}
-Dialogue: 0,0:33:00.67,0:33:03.29,Default,Panda,0,0,0,,Toge is the only second-grade\N among us first years.
+Dialogue: 0,0:33:00.67,0:33:03.29,Default,Panda,0,0,0,,Toge is the only second-grade\N among us first-years.
 Dialogue: 0,0:33:03.29,0:33:05.79,Default,Panda,0,0,0,,He even gets solo missions from time to time!
 Dialogue: 0,0:33:05.79,0:33:07.70,Default,Okkotsu,0,0,0,,Wow, that's impressive.
-Dialogue: 0,0:33:07.70,0:33:09.30,Default,Maki,0,0,0,,{\i1}You're special-grade for god's sake.
+Dialogue: 0,0:33:07.70,0:33:09.30,Default,Maki,0,0,0,,{\i1}You're special grade for god's sake.
 Dialogue: 0,0:33:09.72,0:33:13.05,Default,Gojo,0,0,0,,Yuta, you'll be going with him as support.
 Dialogue: 0,0:33:13.39,0:33:15.56,Default,Okkotsu,0,0,0,,Oh, I'm supporting him?
 Dialogue: 0,0:33:15.56,0:33:18.06,Default,Gojo,0,0,0,,Well, you're more of an observer, really.
@@ -604,7 +604,7 @@ Dialogue: 0,0:43:13.78,0:43:18.24,Default,Okkotsu,0,0,0,,{\i1}But until then, I 
 Dialogue: 0,0:43:19.20,0:43:22.03,Default,Okkotsu,0,0,0,,Oh, what do we do about the Veil?
 Dialogue: 0,0:43:23.75,0:43:24.96,Default,Geto,0,0,0,,How unfortunate.
 Dialogue: 0,0:43:25.62,0:43:28.46,Default,Geto,0,0,0,,I was hoping I'd get to see this rumored Rika{**-chan}.
-Dialogue: 0,0:43:28.88,0:43:32.80,Default,Geto,0,0,0,,As fellow special grades, \NI'm hoping we can get along as well.
+Dialogue: 0,0:43:28.88,0:43:32.80,Default,Geto,0,0,0,,As fellow special-grades, \NI'm hoping we can get along as well.
 Dialogue: 0,0:43:35.05,0:43:37.43,Default,Geto,0,0,0,,I have to return something you dropped, too.
 Dialogue: 0,0:43:47.44,0:43:52.31,Default,Panda,0,0,0,,Toge's Cursed Speech, you see, \Nis something he's been able to use since birth.
 Dialogue: 0,0:43:52.31,0:43:54.86,Default,Panda,0,0,0,,Back in the day, he struggled quite a bit.
@@ -944,7 +944,7 @@ Dialogue: 0,1:05:55.68,1:05:57.06,Default,Suda,0,0,0,,Mimiko, Nanako!
 Dialogue: 0,1:05:57.06,1:05:58.80,Default,Nanako,0,0,0,,What's up?
 Dialogue: 0,1:05:58.80,1:06:01.27,Default,Suda,0,0,0,,We're stepping up the plan. Engage.
 Dialogue: 0,1:06:05.07,1:06:06.98,Default,Nanako,0,0,0,,I thought you'd never ask!
-Dialogue: 0,1:06:08.98,1:06:14.16,Default,Miguel,0,0,0,,Your opponent is over here, special grade.
+Dialogue: 0,1:06:08.98,1:06:14.16,Default,Miguel,0,0,0,,Your opponent is over here, special-grade.
 Dialogue: 0,1:06:14.66,1:06:16.54,Default,Gojo,0,0,0,,Sorry, it's just... {*crowd cheering*}
 Dialogue: 0,1:06:16.95,1:06:19.41,Default,Gojo,0,0,0,,I'm kind of in a hurry right now. {*intense screaming*}
 Dialogue: 0,1:06:23.38,1:06:26.41,Default,Panda,0,0,0,,A Veil has been cast!\N I guess Satoru's intuition was correct.
