@@ -1,0 +1,27 @@
+![pic](https://i.slow.pics/4dJOvHgs.png)
+
+> we do a little stalling
+
+| Role  | Staff |
+|------ |-------|
+| Translation | Crunchyroll (Dialogue), dedsec (Songs) |
+| Encoding, Editing, Timing, Typesetting | dedsec |
+| Quality Control | Dragoonstorm01 (Script), FullMetal (Release) |
+
+About the release:
+
+- The source is sharp. Perhaps a little too sharp. To the point where a perfectly normal line randomly gets darker or aliased or haloed. It's inconsistent and annoys the fuck out of me. I selectively applied anti-aliasing only over parts that were too sharp to soften them just enough so they look a bit more consistent. The rest is the usual masked denoising, debanding, graining, etc.
+
+- I decided to include the 2.0 channel audio track as well because I was told that studio downmixed audio is better than downmixing it during playback.
+
+- Moving to the subtitles, boy this movie was a piece of work. All I'll say is there's a layer of depth you're missing out on with the official subs. I'm glad I didn't wait until the series was done because this cleared up a lot of my doubts around how certain terminology should be handled, which is one of the reasons why it was stalled for so long in the first place.
+
+- Named. Chapters.
+
+If you're someone who has never watched Jujutsu Kaisen, you can still watch this movie. After that, I'd suggest you wait a bit longer for our Season 1 release. Then re-watch this when you have more context. Seriously, this movie keeps getting better with context. Especially after the events of the upcoming season. Manga readers know what I'm talking about!
+
+As always, the entire project is on GitHub. Feel free to use whatever you want from this release.
+There's an alternate honorifics track included, tagged as enm, for those who prefer it.
+Please do leave feedback in the comments, good or bad!
+
+[GitHub](https://github.com/notdedsec/Jujutsu-Kaisen-0) | [Mediainfo](https://pastebin.com/raw/dWfZs6zL) | [Screenshots](https://slow.pics/c/GZl7KFFt) | [Encode Comparison](https://slow.pics/c/hfgpeTpc) | [Script Comparison](https://www.diffchecker.com/IDYWPOs6) | [Discord](http://discord.animekaizoku.com/) | [Telegram](http://telegram.animekaizoku.com/)
